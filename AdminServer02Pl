@@ -38,16 +38,16 @@ http://player.smotrim.ru/iframe/stream/live_id/58508?43e=5.m3u8
 #EXTINF:-1,НТВ
 #EXTGRP:Федеральные
 http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
-#EXTINF:-1,НТВ HD
+#EXTINF:-1,НТВ
 #EXTGRP:Федеральные
 https://mobdrm.mediavitrina.ru:443/hls-livec2/streams/vitrina-hls/ntv0h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.DU94Rt72Md9fEn6FckTwO_nYupCZGmRZ2DiBySwxxck.sxbnPTvGojZXfrUTUTEuNqhwH8hwAYJ7DNCEhTbnaT0.1710058197.f5b7afb5c48a54469802d211ee5e9e09
-#EXTINF:-1,НТВ HD (+2)
+#EXTINF:-1,НТВ (+2)
 #EXTGRP:Каналы (+)
 https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/ntv2h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.DU94Rt72Md9fEn6FckTwO_nYupCZGmRZ2DiBySwxxck.sxbnPTvGojZXfrUTUTEuNqhwH8hwAYJ7DNCEhTbnaT0.1710058197.f5b7afb5c48a54469802d211ee5e9e09
-#EXTINF:-1,НТВ HD (+4)
+#EXTINF:-1,НТВ (+4)
 #EXTGRP:Каналы (+)
 https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/ntv4h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.DU94Rt72Md9fEn6FckTwO_nYupCZGmRZ2DiBySwxxck.sxbnPTvGojZXfrUTUTEuNqhwH8hwAYJ7DNCEhTbnaT0.1710058197.f5b7afb5c48a54469802d211ee5e9e09
-#EXTINF:-1,НТВ HD (+7)
+#EXTINF:-1,НТВ (+7)
 #EXTGRP:Каналы (+)
 https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/ntv7h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.DU94Rt72Md9fEn6FckTwO_nYupCZGmRZ2DiBySwxxck.sxbnPTvGojZXfrUTUTEuNqhwH8hwAYJ7DNCEhTbnaT0.1710058197.f5b7afb5c48a54469802d211ee5e9e09
 #EXTINF:-1,Пятый канал
@@ -89,28 +89,28 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8
 #EXTINF:-1,СТС (+7)
 #EXTGRP:Каналы (+)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
-#EXTINF:-1,ТВ-3 HD 
+#EXTINF:-1,ТВ-3 
 #EXTGRP:Федеральные
-https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/tv3h0/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.DU94Rt72Md9fEn6FckTwO_nYupCZGmRZ2DiBySwxxck.sxbnPTvGojZXfrUTUTEuNqhwH8hwAYJ7DNCEhTbnaT0.1710058197.f5b7afb5c48a54469802d211ee5e9e09
-#EXTINF:-1,ТВ-3 HD (+2)
+http://srv-1-streaming.iptvin.site:8080/tv3_hd/index.m3u8?token=e9b06507945db2b2a05003ba2b1e92adb30e30e4-4559561748-1709912850-1709869650
+#EXTINF:-1,ТВ-3 (+2)
 #EXTGRP:Каналы (+)
 https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/tv3h2/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.DU94Rt72Md9fEn6FckTwO_nYupCZGmRZ2DiBySwxxck.sxbnPTvGojZXfrUTUTEuNqhwH8hwAYJ7DNCEhTbnaT0.1710058197.f5b7afb5c48a54469802d211ee5e9e09
-#EXTINF:-1,ТВ-3 HD (+4)
+#EXTINF:-1,ТВ-3 (+4)
 #EXTGRP:Каналы (+)
 https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/tv3h4/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.DU94Rt72Md9fEn6FckTwO_nYupCZGmRZ2DiBySwxxck.sxbnPTvGojZXfrUTUTEuNqhwH8hwAYJ7DNCEhTbnaT0.1710058197.f5b7afb5c48a54469802d211ee5e9e09
-#EXTINF:-1,ТВ-3 HD (+7)
+#EXTINF:-1,ТВ-3 (+7)
 #EXTGRP:Каналы (+)
 https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/tv3h7/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.DU94Rt72Md9fEn6FckTwO_nYupCZGmRZ2DiBySwxxck.sxbnPTvGojZXfrUTUTEuNqhwH8hwAYJ7DNCEhTbnaT0.1710058197.f5b7afb5c48a54469802d211ee5e9e09
 #EXTINF:-1,Пятница!
 #EXTGRP:Федеральные
 https://mobdrm.mediavitrina.ru:443/hls-livec2/streams/vitrina-hls/friday/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.DU94Rt72Md9fEn6FckTwO_nYupCZGmRZ2DiBySwxxck.sxbnPTvGojZXfrUTUTEuNqhwH8hwAYJ7DNCEhTbnaT0.1710058197.f5b7afb5c48a54469802d211ee5e9e09
-#EXTINF:-1,Пятница HD (+2)
+#EXTINF:-1,Пятница (+2)
 #EXTGRP:Каналы (+)
 https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/friday2h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.DU94Rt72Md9fEn6FckTwO_nYupCZGmRZ2DiBySwxxck.sxbnPTvGojZXfrUTUTEuNqhwH8hwAYJ7DNCEhTbnaT0.1710058197.f5b7afb5c48a54469802d211ee5e9e09
-#EXTINF:-1,Пятница HD (+4)
+#EXTINF:-1,Пятница (+4)
 #EXTGRP:Каналы (+)
 https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/friday4h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.DU94Rt72Md9fEn6FckTwO_nYupCZGmRZ2DiBySwxxck.sxbnPTvGojZXfrUTUTEuNqhwH8hwAYJ7DNCEhTbnaT0.1710058197.f5b7afb5c48a54469802d211ee5e9e09
-#EXTINF:-1,Пятница HD (+7)
+#EXTINF:-1,Пятница (+7)
 #EXTGRP:Каналы (+)
 https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/friday7h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.DU94Rt72Md9fEn6FckTwO_nYupCZGmRZ2DiBySwxxck.sxbnPTvGojZXfrUTUTEuNqhwH8hwAYJ7DNCEhTbnaT0.1710058197.f5b7afb5c48a54469802d211ee5e9e09
 #EXTINF:-1,Мир
@@ -128,13 +128,13 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
 #EXTINF:-1,ТНТ HD
 #EXTGRP:Развлекательные
 https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/tnt/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.DU94Rt72Md9fEn6FckTwO_nYupCZGmRZ2DiBySwxxck.sxbnPTvGojZXfrUTUTEuNqhwH8hwAYJ7DNCEhTbnaT0.1710058197.f5b7afb5c48a54469802d211ee5e9e09
-#EXTINF:-1,ТНТ HD (+2)
+#EXTINF:-1,ТНТ (+2)
 #EXTGRP:Каналы (+)
 https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/tnt2h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.DU94Rt72Md9fEn6FckTwO_nYupCZGmRZ2DiBySwxxck.sxbnPTvGojZXfrUTUTEuNqhwH8hwAYJ7DNCEhTbnaT0.1710058197.f5b7afb5c48a54469802d211ee5e9e09
-#EXTINF:-1,ТНТ HD (+4)
+#EXTINF:-1,ТНТ (+4)
 #EXTGRP:Каналы (+)
 https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/tnt4h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.DU94Rt72Md9fEn6FckTwO_nYupCZGmRZ2DiBySwxxck.sxbnPTvGojZXfrUTUTEuNqhwH8hwAYJ7DNCEhTbnaT0.1710058197.f5b7afb5c48a54469802d211ee5e9e09
-#EXTINF:-1,ТНТ HD (+7)
+#EXTINF:-1,ТНТ (+7)
 #EXTGRP:Каналы (+)
 https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/tnt7h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.DU94Rt72Md9fEn6FckTwO_nYupCZGmRZ2DiBySwxxck.sxbnPTvGojZXfrUTUTEuNqhwH8hwAYJ7DNCEhTbnaT0.1710058197.f5b7afb5c48a54469802d211ee5e9e09
 #EXTINF:-1,Муз ТВ
