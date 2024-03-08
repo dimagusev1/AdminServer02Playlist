@@ -206,10 +206,10 @@ http://srv-2-streaming.iptvin.site:8080/START_World_HD/index.m3u8?token=7a373f7a
 #EXTINF:-1,Viju TV1000 HD
 #EXTGRP:Фильмовые
 http://srv-6-streaming.iptvin.site:8080/viju1ooo/index.m3u8?token=a0dd0b8f7e804ef0caf666897c8064b8c5fd6f4f-4559561748-1709912850-1709869650
-#EXTINF:-1,Viju TV1000 Русское кино HD
+#EXTINF:-1,Viju TV1000 Русское кино 
 #EXTGRP:Фильмовые
 http://srv-2-streaming.iptvin.site:8080/TV1000_Rus_Kino_HD/index.m3u8?token=979329888b9afb1f4315386ab5f3e899127132cd-4559561748-1709912850-1709869650
-#EXTINF:-1,Viju TV1000 новелла HD
+#EXTINF:-1,Viju TV1000 Новелла HD
 #EXTGRP:Фильмовые
 http://srv-1-streaming.iptvin.site:8080/tv1000-novella/index.m3u8?token=d64de9fa9987babb1120a2f54ffdc881fe7bbe01-4559561748-1709912850-1709869650
 #EXTINF:-1,Viju+ Comedy HD
