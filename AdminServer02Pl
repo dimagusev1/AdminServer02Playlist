@@ -49,7 +49,7 @@ https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/ntv2h/tracks-v
 https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/ntv4h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.DU94Rt72Md9fEn6FckTwO_nYupCZGmRZ2DiBySwxxck.sxbnPTvGojZXfrUTUTEuNqhwH8hwAYJ7DNCEhTbnaT0.1710058197.f5b7afb5c48a54469802d211ee5e9e09
 #EXTINF:-1,НТВ HD (+7)
 #EXTGRP:Каналы (+)
-https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/ntv7h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.DU94Rt72Md9fEn6FckTwO_nYupCZGmRZ2DiBySwxxck.sxbnPTvGojZXfrUTUTEuNqhwH8hwAYJ7DNCEhTbnaT0.1710058197.f5b7afb5c48a54469802d211ee5e9e09
+https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/ntv7h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.5513fTaVibkenQHajVKClJzZF6pWbkhSaagvqNmAA2A.NpMLKu-GzhCH-TWaQATjuvhLRp0p5KVcCqw4ZvY4V7U.1710619402.300031712219a6c07a90d847b222b379
 #EXTINF:-1,Пятый канал
 #EXTGRP:Федеральные
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
@@ -91,7 +91,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
 #EXTINF:-1,ТВ-3 HD 
 #EXTGRP:Федеральные
-https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/tv3h0/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.DU94Rt72Md9fEn6FckTwO_nYupCZGmRZ2DiBySwxxck.sxbnPTvGojZXfrUTUTEuNqhwH8hwAYJ7DNCEhTbnaT0.1710058197.f5b7afb5c48a54469802d211ee5e9e09
+https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/tv3/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.5513fTaVibkenQHajVKClJzZF6pWbkhSaagvqNmAA2A.NpMLKu-GzhCH-TWaQATjuvhLRp0p5KVcCqw4ZvY4V7U.1710619402.300031712219a6c07a90d847b222b379
 #EXTINF:-1,ТВ-3 HD (+2)
 #EXTGRP:Каналы (+)
 https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/tv3h2/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.DU94Rt72Md9fEn6FckTwO_nYupCZGmRZ2DiBySwxxck.sxbnPTvGojZXfrUTUTEuNqhwH8hwAYJ7DNCEhTbnaT0.1710058197.f5b7afb5c48a54469802d211ee5e9e09
