@@ -208,7 +208,7 @@ http://srv-2-streaming.iptvin.site:8080/VIP_Premiere_HD/video.m3u8?token=0e098cb
 http://srv-6-streaming.iptvin.site:8080/VIPSerial_HD/video.m3u8?token=85e37a64158c7d90f3618ef7863af8f40deaf334-4559561748-1710085607-1710042407
 #EXTINF:-1,Русский бестселлер
 #EXTGRP:Фильмовые
-http://srv-5-streaming.iptvin.site:34768/rusbestseller/video.m3u8?token=c7e7671a3ee7cbe18e8cc00e3411403f8815c3ee-4559561748-1710085607-17100424070
+http://srv-5-streaming.iptvin.site:34768/rusbestseller/video.m3u8?token=c7e7671a3ee7cbe18e8cc00e3411403f8815c3ee-4559561748-1710085607-1710042407
 #EXTINF:-1,Русский детектив
 #EXTGRP:Фильмовые
 http://srv-4-streaming.iptvin.site:8080/rusdetektive/video.m3u8?token=ba20f94550355eb9128bb5d25d15b8609852f805-4559561748-1710085607-1710042407
