@@ -152,6 +152,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
 #EXTINF:-1,ТНТ4
 #EXTGRP:Развлекательные
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+#EXTINF:-1,Сарафан
+#EXTGRP:Развлекательные
+http://srv-6-streaming.iptvin.site:8080/sarafan/index.m3u8?token=4ea3be45bff40d306669d1fcab2153318d7780cd-4559561748-1710113110-1710069910
 #EXTINF:-1,ТНТ4 (+2)
 #EXTGRP:Каналы (+)
 https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_2/variant.m3u8
@@ -161,6 +164,9 @@ https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_4/variant.m3u8
 #EXTINF:-1,ТНТ4 (+7)
 #EXTGRP:Каналы (+)
 https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_7/variant.m3u8
+#EXTINF:-1,ТНТ4 (+7)
+#EXTGRP:Федеральные
+http://srv-5-streaming.iptvin.site:34768/che/video.m3u8?token=d886f2ba519de52d0630525a9cf36c1c73d080e5-4559561748-1710113110-1710069910
 #EXTINF:-1,BCU Сваты HD
 #EXTGRP:Кинозалы
 http://srv-4-streaming.iptvin.site:8080/bcusvaty/video.m3u8?token=2ccad505de4749b35aa5ef2a4f5726aedd3d899c-4559561748-1710085607-1710042407
@@ -177,17 +183,17 @@ http://srv-4-streaming.iptvin.site:8080/bcuprem2/video.m3u8?token=3f39c137eb659d
 #EXTGRP:Кинозалы
 http://srv-4-streaming.iptvin.site:8080/bcuprem3/video.m3u8?token=fa45f6ab44601593cd5b67bc11675527472b3330-4559561748-1710085607-1710042407
 #EXTINF:-1,START Air HD
-#EXTGRP:Кинозалы
+#EXTGRP:Фильмовые
 http://srv-2-streaming.iptvin.site:8080/START_Air_HD/index.m3u8?token=1d9bec015c2fa7c6054dedbeb245f7d14132bb64-4559561748-1710085607-1710042407
 #EXTINF:-1,START World HD
-#EXTGRP:Кинозалы
+#EXTGRP:Фильмовые
 http://srv-2-streaming.iptvin.site:8080/START_World_HD/index.m3u8?token=6b276d155904df30cb7f6ae09368eb0266555322-4559561748-1710085607-1710042407
 #EXTINF:-1,Viju TV1000 HD
 #EXTGRP:Фильмовые
 http://srv-6-streaming.iptvin.site:8080/viju1ooo/index.m3u8?token=4d1fd963c3e6807dc52a3c182c7bde28067dcdb6-4559561748-1710085607-1710042407
 #EXTINF:-1,Viju TV1000 Русское HD
 #EXTGRP:Фильмовые
-http://srv-2-streaming.iptvin.site:8080/TV1000_Rus_Kino_HD/index.m3u8?token=2d0adb2de2951cfb5431128cc97d2632afb19985-4559561748-1710085607-1710042407
+http://srv-2-streaming.iptvin.site:8080/TV1000_Rus_Kino_HD/index.m3u8?token=580f583c6ec14b08cf6cb7e258bf31bfe78ff7bb-4559561748-1710113110-1710069910
 #EXTINF:-1,Viju TV1000 Новелла HD
 #EXTGRP:Фильмовые
 http://srv-1-streaming.iptvin.site:8080/tv1000-novella/index.m3u8?token=3c329a64d3673e78872c66ae1f693b9e78a32f72-4559561748-1710085607-1710042407
@@ -218,6 +224,9 @@ http://srv-6-streaming.iptvin.site:8080/rusiluzhd/video.m3u8?token=7e887ca3ed5ca
 #EXTINF:-1,Русский Роман HD
 #EXTGRP:Фильмовые
 http://srv-2-streaming.iptvin.site:8080/rusromanhd/video.m3u8?token=3b81344ad7ca6480f43c676d0630f72db6f68386-4559561748-1710085607-1710042407
+#EXTINF:-1,Победа HD
+#EXTGRP:Фильмовые
+http://srv-4-streaming.iptvin.site:8080/pobedahd/video.m3u8?token=bea11325d2d8e9006977864a6c7216074325f345-4559561748-1710113110-1710069910
 #EXTINF:-1,Дом Кино
 #EXTGRP:Фильмовые
 http://srv-1-streaming.iptvin.site:8080/dom-kino/index.m3u8?token=bcfc6664da8a9b506836515afee6c9c9354cb9f0-4559561748-1710085607-1710042407
@@ -245,6 +254,9 @@ http://srv-4-streaming.iptvin.site:8080/kinosemya/video.m3u8?token=6a64490d7d7fd
 #EXTINF:-1,Бобёр
 #EXTGRP:Познавательные
 http://iptv.iptvin.site:2134/channel/5e8d1c4f/index.m3u8?q=39a58296a7abd1f4de5d70e759a13d0e
+#EXTINF:-1,Приключения HD
+#EXTGRP:Познавательные
+http://srv-5-streaming.iptvin.site:34768/PRIKLUCHENIA/video.m3u8?token=b188263e2c4054767715208c690c6c60341ec519-4559561748-1710113110-1710069910
 #EXTINF:-1,Еда
 #EXTGRP:Познавательные
 http://srv-5-streaming.iptvin.site:34768/eda/video.m3u8?token=5c6440bea972a8ab7a4edba8ea4fe5cca7f18262-4559561748-1710085607-1710042407
@@ -254,6 +266,9 @@ http://srv-6-streaming.iptvin.site:8080/avto_plus/video.m3u8?token=8ca043c4d3b12
 #EXTINF:-1,Диалоги о рыбалке
 #EXTGRP:Мужские
 http://srv-2-streaming.iptvin.site:8080/dialogi/video.m3u8?token=f15bb0f6a7355c79b252d1138af9e7ccabe4c137-4559561748-1710085607-1710042407
+#EXTINF:-1,Охотник и рыболов HD
+#EXTGRP:Мужские
+http://srv-5-streaming.iptvin.site:34768/oxotnik_i_rybolov_hd/video.m3u8?token=ea62e7f4e9a2c8a9941cdd83eb96a13e0d3d63c2-4559561748-1710113110-1710069910
 #EXTINF:-1,Моя Планета HD
 #EXTGRP:Познавательные
 http://srv-2-streaming.iptvin.site:8080/my_planet_hd/index.m3u8?token=9eea22d0ebcc89d44b4af7613a030f5bed6fbc6d-4559561748-1710085607-1710042407
