@@ -238,7 +238,7 @@ http://srv-4-streaming.iptvin.site:8080/ntv_hit/video.m3u8?token=e3139458e6dbed5
 https://cdn.ntv.ru/th_style/index.m3u8
 #EXTINF:-1,Кинокомедия
 #EXTGRP:Фильмовые
-http://srv-4-streaming.iptvin.site:8080/ntv_hit/video.m3u8?token=e3139458e6dbed5d91c253a36cd734433da86bae-4559561748-1710300135-1710256935
+http://srv-5-streaming.iptvin.site:34768/kinokomedia/video.m3u8?token=204ba1a2613659c495215ae639f274a1803cfdfe-4559561748-1710300135-1710256935
 #EXTINF:-1,Киномикс HD
 #EXTGRP:Фильмовые
 http://srv-5-streaming.iptvin.site:34768/kinomix/video.m3u8?token=05fa70e2d9136b11cdb29e5f7b6a097c1574c41d-4559561748-1710300135-1710256935
