@@ -163,55 +163,55 @@ https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_4/variant.m3u8
 https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_7/variant.m3u8
 #EXTINF:-1,BCU Сваты HD
 #EXTGRP:Кинозалы
-http://srv-4-streaming.iptvin.site:8080/bcusvaty/video.m3u8?token=9086483d112bfc9945f9660c70ded70c11788221-4559561748-1710366749-1710323549
+http://srv-4-streaming.iptvin.site:8080/bcusvaty/video.m3u8?token=30e75d486c603ab43e79a48dee561ba99b21ebe9-4559561748-1710424966-1710381766
 #EXTINF:-1,BCU Russian HD
 #EXTGRP:Кинозалы
-http://srv-4-streaming.iptvin.site:8080/bcurussian/video.m3u8?token=e44a34fb02174a5f969bb8e316d9cb9df79a50a2-4559561748-1710366749-1710323549
+http://srv-4-streaming.iptvin.site:8080/bcurussian/video.m3u8?token=057c269053baaea3a6189ff85c14805b5a800fb5-4559561748-1710424966-1710381766
 #EXTINF:-1,BCU Кинозал Premiere 1 HD
 #EXTGRP:Кинозалы
-http://srv-4-streaming.iptvin.site:8080/bcuprem1/video.m3u8?token=633cebce956190e99f38085977e2f64d64fe3fee-4559561748-1710366749-1710323549
+http://srv-4-streaming.iptvin.site:8080/bcuprem1/video.m3u8?token=b8d96d1d369a834634b76ed4362ce04a4e82606f-4559561748-1710424966-1710381766
 #EXTINF:-1,BCU Кинозал Premiere 2 HD
 #EXTGRP:Кинозалы
-http://srv-4-streaming.iptvin.site:8080/bcuprem2/video.m3u8?token=5b1be30f4f6ddf9c35a8d60dbfc20b1c6bead2de-4559561748-1710366749-1710323549
+http://srv-4-streaming.iptvin.site:8080/bcuprem2/video.m3u8?token=4ed7dca9c52c3365b2742a03bc31b8a873ba1e1c-4559561748-1710424966-1710381766
 #EXTINF:-1,BCU Кинозал Premiere 3 HD
 #EXTGRP:Кинозалы
-http://srv-4-streaming.iptvin.site:8080/bcuprem3/video.m3u8?token=cdd4a5a3c90ec6232587d034d19507373d634eb1-4559561748-1710366749-1710323549
+http://srv-4-streaming.iptvin.site:8080/bcuprem3/video.m3u8?token=69b96d0480112bc2917b62b8d821aec4f6004b53-4559561748-1710424966-1710381766
 #EXTINF:-1,START Air HD
 #EXTGRP:Фильмовые
-http://srv-2-streaming.iptvin.site:8080/START_Air_HD/index.m3u8?token=6f495244f8db66361e35a1797551230e0c0edc93-4559561748-1710366749-1710323549
+http://srv-2-streaming.iptvin.site:8080/START_Air_HD/index.m3u8?token=5ba70d3f711bfd376ac49ada3911ae4f1aeef677-4559561748-1710424966-1710381766
 #EXTINF:-1,START World HD
 #EXTGRP:Фильмовые
-http://srv-2-streaming.iptvin.site:8080/START_World_HD/index.m3u8?token=0adb2eacfa8ace78b7010d387a6ff39cb18197ff-4559561748-1710366749-1710323549
+http://srv-2-streaming.iptvin.site:8080/START_World_HD/index.m3u8?token=12b589c0ccf1f89a8a0e83025c8733105b333a97-4559561748-1710424966-1710381766
 #EXTINF:-1,Viju TV1000 HD
 #EXTGRP:Фильмовые
-http://srv-6-streaming.iptvin.site:8080/viju1ooo/index.m3u8?token=5c0fd141fad97604cb7d1d6775c91819defef168-4559561748-1710366749-1710323549
+http://srv-6-streaming.iptvin.site:8080/viju1ooo/index.m3u8?token=d320f523965010f7b2c85c4c009b79f3e59dc87d-4559561748-1710424966-1710381766
 #EXTINF:-1,Viju TV1000 Русское HD
 #EXTGRP:Фильмовые
-http://srv-2-streaming.iptvin.site:8080/TV1000_Rus_Kino_HD/index.m3u8?token=81b84dc5370845ba69e79ed388d0f0ae5ae0e7fc-4559561748-1710366749-1710323549
+http://srv-2-streaming.iptvin.site:8080/TV1000_Rus_Kino_HD/index.m3u8?token=0204bdc88d80d3a4b70a72247eb5d7032cc0d459-4559561748-1710424966-1710381766
 #EXTINF:-1,Viju TV1000 action HD
 #EXTGRP:Фильмовые
-http://srv-5-streaming.iptvin.site:34768/TV1000_Action_HD/index.m3u8?token=2d98996afd036ab3548cebb28482fbf814f17c0f-4559561748-1710366749-1710323549
+http://srv-5-streaming.iptvin.site:34768/TV1000_Action_HD/index.m3u8?token=fd9c92b3a14da90d953aad1ed0405e2dc6df4e3d-4559561748-1710424966-1710381766
 #EXTINF:-1,Viju TV1000 новелла HD
 #EXTGRP:Фильмовые
-http://srv-1-streaming.iptvin.site:8080/tv1000-novella/index.m3u8?token=34fd191cf1e6e7ed7cd5eebd9731ed0503d9805f-4559561748-1710366749-1710323549
+http://srv-1-streaming.iptvin.site:8080/tv1000-novella/index.m3u8?token=00c57dd970f1d1b9e977123c7cebd2c1332ac211-4559561748-1710424966-1710381766
 #EXTINF:-1,Viju+ Comedy HD
 #EXTGRP:Фильмовые
-http://srv-5-streaming.iptvin.site:34768/VIP_Comedy_HD/index.m3u8?token=84c29730cd90681496db6933be5177c6325f1697-4559561748-1710366749-1710323549
+http://srv-5-streaming.iptvin.site:34768/VIP_Comedy_HD/index.m3u8?token=b6e3bc06fb8ae8f844bab6111db5fa645697929c-4559561748-1710424966-1710381766
 #EXTINF:-1,Viju+ Megahit HD
 #EXTGRP:Фильмовые
-http://srv-5-streaming.iptvin.site:34768/VIP_Megahit_HD/index.m3u8?token=eb802227df6d2fe58710e3b5802b3456fdf5bea9-4559561748-1710366749-1710323549
+http://srv-5-streaming.iptvin.site:34768/VIP_Megahit_HD/index.m3u8?token=c857e32a747f4017b7a2fa117d4ae4f00ef4e804-4559561748-1710424966-1710381766
 #EXTINF:-1,Viju+ Premiere HD
 #EXTGRP:Фильмовые
-http://srv-2-streaming.iptvin.site:8080/VIP_Premiere_HD/video.m3u8?token=cc021a68350ede36c08bbd5af9bfd915c4369dbb-4559561748-1710366749-1710323549
+http://srv-2-streaming.iptvin.site:8080/VIP_Premiere_HD/video.m3u8?token=90153609033c009c0bf5e86cd756eeca6fff67f6-4559561748-1710424966-1710381766
 #EXTINF:-1,Viju+ Serial HD
 #EXTGRP:Фильмовые
-http://srv-6-streaming.iptvin.site:8080/VIPSerial_HD/video.m3u8?token=40cd063ae1cf37ff3b3104717aab70d7dd5befe1-4559561748-1710366749-1710323549
+http://srv-6-streaming.iptvin.site:8080/VIPSerial_HD/video.m3u8?token=9f906d6f3e8f9f8d40d873aa746ce42b8f8870ea-4559561748-1710424966-1710381766
 #EXTINF:-1,Русский бестселлер
 #EXTGRP:Фильмовые
-http://srv-5-streaming.iptvin.site:34768/rusbestseller/video.m3u8?token=17d5cfc73a3c46ace2a2eb8dc4ae84a41f498b98-4559561748-1710366749-1710323549
+http://srv-5-streaming.iptvin.site:34768/rusbestseller/video.m3u8?token=8cab942cce4053d2f16bbac2475f6a2ce4b98935-4559561748-1710424966-1710381766
 #EXTINF:-1,Русский детектив
 #EXTGRP:Фильмовые
-http://srv-4-streaming.iptvin.site:8080/rusdetektive/video.m3u8?token=c9c396bbc8d0a2010cfd7e2df30dacf316c32081-4559561748-1710366749-1710323549
+http://srv-4-streaming.iptvin.site:8080/rusdetektive/video.m3u8?token=c9e7bb4de071080a492d5a531827bdf4f75dcf1c-4559561748-1710424966-1710381766
 #EXTINF:-1,Русский иллюзион 
 #EXTGRP:Фильмовые
 http://iptv.iptvin.site:2134/channel/nff29fa0/index.m3u8?q=39a58296a7abd1f4de5d70e759a13d0e
@@ -220,58 +220,58 @@ http://iptv.iptvin.site:2134/channel/nff29fa0/index.m3u8?q=39a58296a7abd1f4de5d7
 http://srv-2-streaming.iptvin.site:8080/rusromanhd/video.m3u8?token=d4df0e6db5d46427c3746c260b146fba7eb5230d-4559561748-1710366749-1710323549
 #EXTINF:-1,Победа HD
 #EXTGRP:Фильмовые
-http://srv-4-streaming.iptvin.site:8080/pobedahd/video.m3u8?token=7e642307ea3c6f4472770a9c7e5d1008ce3423b7-4559561748-1710366749-1710323549
+http://srv-2-streaming.iptvin.site:8080/rusromanhd/video.m3u8?token=381d6e40f28f18ec99c803a4d75e0cf4341e8ff0-4559561748-1710424966-1710381766
 #EXTINF:-1,Дом Кино
 #EXTGRP:Фильмовые
-http://srv-1-streaming.iptvin.site:8080/dom-kino/index.m3u8?token=65d80b8b9ce76d3ca68e3028b06e0255cbd70553-4559561748-1710366749-1710323549
+http://srv-1-streaming.iptvin.site:8080/dom-kino/index.m3u8?token=9bbaaa40ca3070fdfc33bba0c772f67df312b44b-4559561748-1710424966-1710381766
 #EXTINF:-1,Дом Кино Премиум HD
 #EXTGRP:Фильмовые
-http://srv-4-streaming.iptvin.site:8080/DKpremium/index.m3u8?token=073658478c890f48b0d1a6854581a5dcf339aad8-4559561748-1710366749-1710323549
+http://srv-4-streaming.iptvin.site:8080/DKpremium/index.m3u8?token=2b89104f62f0931b2e0c6345deb081428c2f0b7a-4559561748-1710424966-1710381766
 #EXTINF:-1,НТВ Сериал HD
 #EXTGRP:Фильмовые
-http://srv-6-streaming.iptvin.site:8080/ntvserial/video.m3u8?token=82a16bda6e5b9f703b42d727e00b47913e7a806d-4559561748-1710366749-1710323549
+http://srv-6-streaming.iptvin.site:8080/ntvserial/video.m3u8?token=a9c8cf3cd58fed420b63eab86659a1033db9c4dc-4559561748-1710424966-1710381766
 #EXTINF:-1,НТВ Хит HD
 #EXTGRP:Фильмовые
-http://srv-4-streaming.iptvin.site:8080/ntv_hit/video.m3u8?token=d7af38fcd53ee05a764c7cc8c9db31a58baae365-4559561748-1710366749-1710323549
+http://srv-4-streaming.iptvin.site:8080/ntv_hit/video.m3u8?token=c2db8250574b30d692b6440044ec6695a70d6739-4559561748-1710424966-1710381766
 #EXTINF:-1,НТВ Стиль HD
 #EXTGRP:Познавательные
 https://cdn.ntv.ru/th_style/index.m3u8
 #EXTINF:-1,Кинокомедия
 #EXTGRP:Фильмовые
-http://srv-5-streaming.iptvin.site:34768/kinokomedia/video.m3u8?token=9a005945c7bb65c614004affac01c0f6c1cd01e3-4559561748-1710366749-1710323549
+http://srv-5-streaming.iptvin.site:34768/kinokomedia/video.m3u8?token=ad6d36088e08dd598199672e08a59d0b2f800cbb-4559561748-1710424966-1710381766
 #EXTINF:-1,Киномикс HD
 #EXTGRP:Фильмовые
-http://srv-5-streaming.iptvin.site:34768/kinomix/video.m3u8?token=2ac12f287496de39044e12bde3e2426515ab3ceb-4559561748-1710366749-1710323549
+http://srv-5-streaming.iptvin.site:34768/kinomix/video.m3u8?token=32e8882b1d4955e853bc9a84642d1b24f3c1352c-4559561748-1710424966-1710381766
 #EXTINF:-1,Киносемья
 #EXTGRP:Фильмовые
-http://srv-4-streaming.iptvin.site:8080/kinosemya/video.m3u8?token=002623284224115d701c183ad6dcbae57ffdb4e3-4559561748-1710366749-1710323549
+http://srv-4-streaming.iptvin.site:8080/kinosemya/video.m3u8?token=c9ef12f7d87e7de0ebdef10f22d26a223d7a4505-4559561748-1710424966-1710381766
 #EXTINF:-1,Бобёр
 #EXTGRP:Познавательные
 http://iptv.iptvin.site:2134/channel/5e8d1c4f/index.m3u8?q=39a58296a7abd1f4de5d70e759a13d0e
 #EXTINF:-1,Приключения HD
 #EXTGRP:Познавательные
-http://srv-5-streaming.iptvin.site:34768/PRIKLUCHENIA/video.m3u8?token=765569b7d841da9cd81b0b7cac7e339470418607-4559561748-1710366749-1710323549
+http://srv-5-streaming.iptvin.site:34768/PRIKLUCHENIA/video.m3u8?token=d2162f0aa71281e3d8b701c1f6e576a2bd67521b-4559561748-1710424966-1710381766
 #EXTINF:-1,Еда
 #EXTGRP:Познавательные
-http://srv-5-streaming.iptvin.site:34768/eda/video.m3u8?token=4391573d947ab582a4d58012fb4e095aa1dbecbe-4559561748-1710366749-1710323549
+http://srv-5-streaming.iptvin.site:34768/eda/video.m3u8?token=d107e26ea8ce921e786540bbed1910e07331f6e4-4559561748-1710424966-1710381766
 #EXTINF:-1,Авто Плюс
 #EXTGRP:Мужские
-http://srv-6-streaming.iptvin.site:8080/avto_plus/video.m3u8?token=6ee77b4f9d642af871308e55fde52d6032407751-4559561748-1710366749-1710323549
+http://srv-6-streaming.iptvin.site:8080/avto_plus/video.m3u8?token=20b0d75c0d03bd6a3c3ce91cbc1e427ea152d433-4559561748-1710424966-1710381766
 #EXTINF:-1,Диалоги о рыбалке
 #EXTGRP:Мужские
-http://srv-2-streaming.iptvin.site:8080/dialogi/video.m3u8?token=046652bd5fa1535ab1dd255ca9b586c58bf80648-4559561748-1710366749-1710323549
+http://srv-2-streaming.iptvin.site:8080/dialogi/video.m3u8?token=86bc93560495669559a2e76c6d4a49255c71810a-4559561748-1710424966-1710381766
 #EXTINF:-1,Охотник и рыболов HD
 #EXTGRP:Мужские
-http://srv-5-streaming.iptvin.site:34768/oxotnik_i_rybolov_hd/video.m3u8?token=ac2f67aad519ad5f7ea81ba4357411588c91df92-4559561748-1710366749-1710323549
+http://srv-5-streaming.iptvin.site:34768/oxotnik_i_rybolov_hd/video.m3u8?token=660d198057d3c35fee227de93cc88fd03068e46b-4559561748-1710424966-1710381766
 #EXTINF:-1,Моя Планета HD
 #EXTGRP:Познавательные
-http://srv-2-streaming.iptvin.site:8080/my_planet_hd/index.m3u8?token=52537867163d2d3906cce4cec13f0e11286c9e45-4559561748-1710366749-1710323549
+http://srv-2-streaming.iptvin.site:8080/my_planet_hd/index.m3u8?token=ab135e5c720dcd9b59156843aa9555576be278e1-4559561748-1710424966-1710381766
 #EXTINF:-1,RU TV HD
 #EXTGRP:Музыкальные
 https://hls-03-video.webcaramba.com/rutv/live_720/index.m3u8
 #EXTINF:-1,Ani
 #EXTGRP:Детские
-http://srv-6-streaming.iptvin.site:8080/ani/video.m3u8?token=0fd9bed01e4d46f357cd835e1ac8349aa4fd987a-4559561748-1710366749-1710323549
+http://srv-6-streaming.iptvin.site:8080/ani/video.m3u8?token=82866f9dbb2eb5a9af5d32dfff2de19091185d19-4559561748-1710424966-1710381766
 #EXTINF:-1,Детский Мир
 #EXTGRP:Детские
 http://iptv.iptvin.site:2134/channel/41661217/index.m3u8?q=39a58296a7abd1f4de5d70e759a13d0e
@@ -280,7 +280,7 @@ http://iptv.iptvin.site:2134/channel/41661217/index.m3u8?q=39a58296a7abd1f4de5d7
 http://iptv.iptvin.site:2134/channel/24809f78/index.m3u8?q=39a58296a7abd1f4de5d70e759a13d0e
 #EXTINF:-1,Мульт HD
 #EXTGRP:Детские
-http://srv-2-streaming.iptvin.site:8080/mult_hd/video.m3u8?token=5cac28e1e80d39e2542f2cc77cee48868eb0a88c-4559561748-1710366749-1710323549
+http://srv-2-streaming.iptvin.site:8080/mult_hd/video.m3u8?token=d5ec113dd71fe1fc29c2c89d9a2e6b7e3c812a0d-4559561748-1710424966-1710381766
 #EXTINF:-1,О!
 #EXTGRP:Детские
 http://iptv.iptvin.site:2134/channel/n58f9a485/index.m3u8?q=39a58296a7abd1f4de5d70e759a13d0e
