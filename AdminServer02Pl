@@ -247,7 +247,7 @@ http://srv-4-streaming.iptvin.site:8080/kinosemya/video.m3u8?token=55293593f5910
 http://srv-4-streaming.iptvin.site:8080/kinouzhas/video.m3u8?token=e9cf76bbe24efacdf7e6b6969d8f60f8f1c1e3da-4741364406-1710648209-1710605009
 #EXTINF:-1,Киносерия
 #EXTGRP:Фильмовые
-http://srv-5-streaming.iptvin.site:34768/kinoseria_hd/video.m3u8?token=7663e6bc4fd1e6c68a88f6e029c89537dcfb65ae-4741364406-1710648209-1710605009
+http://srv-2-streaming.iptvin.site:8080/kinoseria/index.m3u8?token=b499a88ee0a2d4ef2c11846cef87642d78ad51a5-4741364406-1710648209-1710605009
 #EXTINF:-1,Кинохит
 #EXTGRP:Фильмовые
 http://iptv.iptvin.site:2134/channel/n6adb44b5/index.m3u8?q=e67ea5030b4b2f9546a2df1155710cdb
