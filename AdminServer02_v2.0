@@ -107,7 +107,7 @@ http://srv-6-streaming.iptvin.site:8080/viju1ooo/index.m3u8?token=4c4d37d6bf3a14
 http://srv-2-streaming.iptvin.site:8080/TV1000_Rus_Kino_HD/index.m3u8?token=27e71cb2e51ba33c2eb4cb272db9d416a2455cca-4741364406-1710730255-1710687055
 #EXTINF:0 group-title="Фильмовые" tvg-id="125" tvg-logo="http://epg.one/img/125.png" tvg-rec="3",Viju TV1000 Action HD
 http://srv-5-streaming.iptvin.site:34768/TV1000_Action_HD/index.m3u8?token=69b02eacd53331e093b8a2867dc477d03b40cfa0-4741364406-1710730255-1710687055
-#EXTINF:0 group-title="Фильмовые" tvg-id="125" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2024/01/921dfa7b5772a57615493edd8667b1b1.png" tvg-rec="3",Viju TV1000 Новелла HD
+#EXTINF:-1,Viju TV1000 Новелла HD
 http://srv-1-streaming.iptvin.site:8080/tv1000-novella/index.m3u8?token=89c3919baaf32df7374db40090f0ecfc4793c83b-4741364406-1710730255-1710687055
 #EXTINF:0 group-title="Фильмовые" tvg-id="1011" tvg-logo="http://epg.one/img/1011.png" tvg-rec="7",Viju+ Comedy HD
 http://srv-5-streaming.iptvin.site:34768/VIP_Comedy_HD/index.m3u8?token=024fc8c6d081310e5c1fb3fbdc8eed6b24786b11-4741364406-1710730255-1710687055
