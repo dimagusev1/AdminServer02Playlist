@@ -41,13 +41,13 @@ http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
 #EXTINF:-1,НТВ HD
 #EXTGRP:Каналы (+)
 https://mobdrm.mediavitrina.ru:443/hls-livec2/streams/vitrina-hls/ntv0h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.5513fTaVibkenQHajVKClJzZF6pWbkhSaagvqNmAA2A.NpMLKu-GzhCH-TWaQATjuvhLRp0p5KVcCqw4ZvY4V7U.1710619402.300031712219a6c07a90d847b222b379
-#EXTINF:-1,НТВ HD (+2)
+#EXTINF:-1,НТВ (+2)
 #EXTGRP:Каналы (+)
 https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/ntv2h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.5513fTaVibkenQHajVKClJzZF6pWbkhSaagvqNmAA2A.NpMLKu-GzhCH-TWaQATjuvhLRp0p5KVcCqw4ZvY4V7U.1710619402.300031712219a6c07a90d847b222b379
-#EXTINF:-1,НТВ HD (+4)
+#EXTINF:-1,НТВ (+4)
 #EXTGRP:Каналы (+)
 https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/ntv4h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.5513fTaVibkenQHajVKClJzZF6pWbkhSaagvqNmAA2A.NpMLKu-GzhCH-TWaQATjuvhLRp0p5KVcCqw4ZvY4V7U.1710619402.300031712219a6c07a90d847b222b379
-#EXTINF:-1,НТВ HD (SD) (+7)
+#EXTINF:-1,НТВ (+7)
 #EXTGRP:Каналы (+)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
 #EXTINF:-1,Пятый канал
@@ -92,25 +92,25 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
 #EXTINF:-1 ТВ3
 #EXTGRP:Федеральные
 https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/tv3/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.5513fTaVibkenQHajVKClJzZF6pWbkhSaagvqNmAA2A.NpMLKu-GzhCH-TWaQATjuvhLRp0p5KVcCqw4ZvY4V7U.1710619402.300031712219a6c07a90d847b222b379
-#EXTINF:-1,ТВ-3 HD (+2)
+#EXTINF:-1,ТВ-3 (+2)
 #EXTGRP:Каналы (+)
 https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/tv3h2/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.5513fTaVibkenQHajVKClJzZF6pWbkhSaagvqNmAA2A.NpMLKu-GzhCH-TWaQATjuvhLRp0p5KVcCqw4ZvY4V7U.1710619402.300031712219a6c07a90d847b222b379
-#EXTINF:-1,ТВ-3 HD (+4)
+#EXTINF:-1,ТВ-3 (+4)
 #EXTGRP:Каналы (+)
 https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/tv3h4/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.5513fTaVibkenQHajVKClJzZF6pWbkhSaagvqNmAA2A.NpMLKu-GzhCH-TWaQATjuvhLRp0p5KVcCqw4ZvY4V7U.1710619402.300031712219a6c07a90d847b222b379
-#EXTINF:-1,ТВ-3 HD (+7)
+#EXTINF:-1,ТВ-3 (+7)
 #EXTGRP:Каналы (+)
 https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/tv3h7/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.5513fTaVibkenQHajVKClJzZF6pWbkhSaagvqNmAA2A.NpMLKu-GzhCH-TWaQATjuvhLRp0p5KVcCqw4ZvY4V7U.1710619402.300031712219a6c07a90d847b222b379
 #EXTINF:-1,Пятница!
 #EXTGRP:Федеральные
 https://mobdrm.mediavitrina.ru:443/hls-livec2/streams/vitrina-hls/friday/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.5513fTaVibkenQHajVKClJzZF6pWbkhSaagvqNmAA2A.NpMLKu-GzhCH-TWaQATjuvhLRp0p5KVcCqw4ZvY4V7U.1710619402.300031712219a6c07a90d847b222b379
-#EXTINF:-1,Пятница HD (+2)
+#EXTINF:-1,Пятница (+2)
 #EXTGRP:Каналы (+)
 https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/friday2h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.5513fTaVibkenQHajVKClJzZF6pWbkhSaagvqNmAA2A.NpMLKu-GzhCH-TWaQATjuvhLRp0p5KVcCqw4ZvY4V7U.1710619402.300031712219a6c07a90d847b222b379
-#EXTINF:-1,Пятница HD (+4)
+#EXTINF:-1,Пятница (+4)
 #EXTGRP:Каналы (+)
 https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/friday4h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.5513fTaVibkenQHajVKClJzZF6pWbkhSaagvqNmAA2A.NpMLKu-GzhCH-TWaQATjuvhLRp0p5KVcCqw4ZvY4V7U.1710619402.300031712219a6c07a90d847b222b379
-#EXTINF:-1,Пятница HD (+7)
+#EXTINF:-1,Пятница (+7)
 #EXTGRP:Каналы (+)
 https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/friday7h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.5513fTaVibkenQHajVKClJzZF6pWbkhSaagvqNmAA2A.NpMLKu-GzhCH-TWaQATjuvhLRp0p5KVcCqw4ZvY4V7U.1710619402.300031712219a6c07a90d847b222b379
 #EXTINF:-1,Мир
@@ -128,13 +128,13 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
 #EXTINF:-1,ТНТ HD
 #EXTGRP:Развлекательные
 https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/tnt/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.5513fTaVibkenQHajVKClJzZF6pWbkhSaagvqNmAA2A.NpMLKu-GzhCH-TWaQATjuvhLRp0p5KVcCqw4ZvY4V7U.1710619402.300031712219a6c07a90d847b222b379
-#EXTINF:-1,ТНТ HD (+2)
+#EXTINF:-1,ТНТ (+2)
 #EXTGRP:Каналы (+)
 https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/tnt2h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.5513fTaVibkenQHajVKClJzZF6pWbkhSaagvqNmAA2A.NpMLKu-GzhCH-TWaQATjuvhLRp0p5KVcCqw4ZvY4V7U.1710619402.300031712219a6c07a90d847b222b379
-#EXTINF:-1,ТНТ HD (+4)
+#EXTINF:-1,ТНТ (+4)
 #EXTGRP:Каналы (+)
 https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/tnt4h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.5513fTaVibkenQHajVKClJzZF6pWbkhSaagvqNmAA2A.NpMLKu-GzhCH-TWaQATjuvhLRp0p5KVcCqw4ZvY4V7U.1710619402.300031712219a6c07a90d847b222b379
-#EXTINF:-1,ТНТ HD (+7)
+#EXTINF:-1,ТНТ (+7)
 #EXTGRP:Каналы (+)
 https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/tnt7h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.5513fTaVibkenQHajVKClJzZF6pWbkhSaagvqNmAA2A.NpMLKu-GzhCH-TWaQATjuvhLRp0p5KVcCqw4ZvY4V7U.1710619402.300031712219a6c07a90d847b222b379
 #EXTINF:-1,Муз ТВ
