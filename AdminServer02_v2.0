@@ -143,6 +143,8 @@ http://srv-5-streaming.iptvin.site:34768/kinomix/video.m3u8?token=397cd2db2b418b
 http://srv-4-streaming.iptvin.site:8080/kinosemya/video.m3u8?token=1278efa72b779e7dc0b9332c13e37631d0820dc7-4741364406-1710810376-1710767176
 #EXTINF:0 group-title="Фильмовые" tvg-id="566" tvg-logo="http://epg.one/img/566.png" tvg-rec="7",Кинопремьера HD
 http://srv-6-streaming.iptvin.site:8080/kinopremiera_hd/video.m3u8?token=f21e7b0f339886124b05272dd095d19331053790-4741364406-1710810376-1710767176
+#EXTINF:0 group-title="Фильмовые" tvg-id="566" tvg-logo="http://epg.one/img/566.png" tvg-rec="7",Кинопремьера HD TEST ON AIR
+https://s72169.cdn.ngenix.net/mdrm/CH_KINOPREMIEREHD/variant.m3u8
 #EXTINF:0 group-title="Фильмовые" tvg-id="2493" tvg-logo="http://epg.one/img/2493.png" tvg-rec="3",Киноужас 
 http://srv-4-streaming.iptvin.site:8080/kinouzhas/video.m3u8?token=9318e16a4c62a33e4c2467e9ece795a20cc94157-4741364406-1710810376-1710767176
 #EXTINF:0 group-title="Фильмовые" tvg-id="542" tvg-logo="http://epg.one/img/542.png" tvg-rec="7",Кинохит
