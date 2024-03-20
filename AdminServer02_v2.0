@@ -88,83 +88,81 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTINF:0 group-title="Федеральные" tvg-id="1649" tvg-logo="http://epg.one/img/1649.png" tvg-rec="7",ТНТ4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:0 group-title="Кинозалы" tvg-id="4768" tvg-logo="http://epg.one/img/4768.png" tvg-rec="7",BCU Сваты HD
-http://srv-4-streaming.iptvin.site:8080/bcusvaty/video.m3u8?token=9e28e8d7341c10268cdc4d487f8765cd14eb0554-4741364406-1710905068-1710861868
+http://srv-4-streaming.iptvin.site:8080/bcusvaty/video.m3u8?token=83c1e39820e740ed48d9fa7b46da2c0a2f24c942-4741364406-1710944787-1710901587
 #EXTINF:0 group-title="Кинозалы" tvg-id="4762" tvg-logo="http://epg.one/img/4762.png" tvg-rec="7",BCU Russian HD
-http://srv-4-streaming.iptvin.site:8080/bcurussian/video.m3u8?token=591489d071cb5f824169f55e8c081d44b92137c4-4741364406-1710905068-1710861868
+http://srv-4-streaming.iptvin.site:8080/bcurussian/video.m3u8?token=58d9b2b2d346158e2271f50dc7260c053c035311-4741364406-1710944787-1710901587
 #EXTINF:0 group-title="Кинозалы" tvg-id="4736" tvg-logo="http://epg.one/img/4736.png" tvg-rec="7",BCU Кинозал Premiere 1 HD
-http://srv-4-streaming.iptvin.site:8080/bcuprem1/video.m3u8?token=9ff32c5d0e70be963a70e021419aa59a7ae73ca5-4741364406-1710905068-1710861868
+http://srv-4-streaming.iptvin.site:8080/bcuprem1/video.m3u8?token=68fa533897ab72012815aa057bd6c884a8ae37cd-4741364406-1710944787-1710901587
 #EXTINF:0 group-title="Кинозалы" tvg-id="4737" tvg-logo="http://epg.one/img/4737.png" tvg-rec="7",BCU Кинозал Premiere 2 HD
-http://srv-4-streaming.iptvin.site:8080/bcuprem2/video.m3u8?token=6551df948e4584966b2eeb2ef4551170fc5efd7f-4741364406-1710905068-1710861868
+http://srv-4-streaming.iptvin.site:8080/bcuprem2/video.m3u8?token=f60cb6de6b76ec4e672ced4ecda18c4199c9cc17-4741364406-1710944787-1710901587
 #EXTINF:0 group-title="Кинозалы" tvg-id="4738" tvg-logo="http://epg.one/img/4738.png" tvg-rec="7",BCU Кинозал Premiere 3 HD
-http://srv-4-streaming.iptvin.site:8080/bcuprem3/video.m3u8?token=c48b3332acb7eacf79c42defd9e5dccf06ec7418-4741364406-1710905068-1710861868
+http://srv-4-streaming.iptvin.site:8080/bcuprem3/video.m3u8?token=423384c5833e1cd77243a743cfef2344466a56f7-4741364406-1710944787-1710901587
 #EXTINF:0 group-title="Фильмовые" tvg-id="127" tvg-logo="http://epg.one/img/127.png" tvg-rec="3",Viju TV1000 HD
-http://srv-6-streaming.iptvin.site:8080/viju1ooo/index.m3u8?token=c666951d8ba9c24d85042e7e807b0698b4e6f3a9-4741364406-1710905068-1710861868
+http://srv-6-streaming.iptvin.site:8080/viju1ooo/index.m3u8?token=d304fe9fbc52a1115acf7fb66f07244b42a1811d-4741364406-1710944787-1710901587
 #EXTINF:0 group-title="Фильмовые" tvg-id="267" tvg-logo="http://epg.one/img/267.png" tvg-rec="0",Viju TV1000 Русское HD
-http://srv-2-streaming.iptvin.site:8080/TV1000_Rus_Kino_HD/index.m3u8?token=3e5dfba483d808089c8c58ea87d1763b280d2735-4741364406-1710905068-1710861868
+http://srv-2-streaming.iptvin.site:8080/TV1000_Rus_Kino_HD/index.m3u8?token=58d9e331a08f794fa0c70d1102ca31abf0134854-4741364406-1710944787-1710901587
 #EXTINF:0 group-title="Фильмовые" tvg-id="125" tvg-logo="http://epg.one/img/125.png" tvg-rec="3",Viju TV1000 Action HD
-http://srv-5-streaming.iptvin.site:34768/TV1000_Action_HD/index.m3u8?token=df9a875a7711a4ec7de927fee2ae9fb63c29a781-4741364406-1710905068-1710861868
+http://srv-5-streaming.iptvin.site:34768/TV1000_Action_HD/index.m3u8?token=6b08930f00f9d93006670d477a64c2efe5994910-4741364406-1710944787-1710901587
 #EXTINF:-1,Viju TV1000 Новелла HD
-http://srv-1-streaming.iptvin.site:8080/tv1000-novella/index.m3u8?token=a3b34cbdb7295040a4787f9f5b360cf03f689650-4741364406-1710905068-1710861868
+http://srv-1-streaming.iptvin.site:8080/tv1000-novella/index.m3u8?token=3f7e245d60bc014ebcb6bb21d067d28fb13493b6-4741364406-1710944787-1710901587
 #EXTINF:0 group-title="Фильмовые" tvg-id="1011" tvg-logo="http://epg.one/img/1011.png" tvg-rec="7",Viju+ Comedy HD
-http://srv-5-streaming.iptvin.site:34768/VIP_Comedy_HD/index.m3u8?token=09a3fd86f4231bb8b5f2a0b7075dd01a3112b494-4741364406-1710905068-1710861868
+http://srv-5-streaming.iptvin.site:34768/VIP_Comedy_HD/index.m3u8?token=ffd3b26228ec2d36eded7190e5eb1e0f6419d743-4741364406-1710944787-1710901587
 #EXTINF:0 group-title="Фильмовые" tvg-id="1012" tvg-logo="http://epg.one/img/1012.png" tvg-rec="7",Viju+ Megahit HD
-http://srv-5-streaming.iptvin.site:34768/VIP_Megahit_HD/index.m3u8?token=7af6043d4c8c4c2d5b633d815a60abf7a68c6a1f-4741364406-1710905068-1710861868
+http://srv-5-streaming.iptvin.site:34768/VIP_Megahit_HD/index.m3u8?token=d17621fa08ef7b34d38a8baa48e0a1c6694a9d5b-4741364406-1710944787-1710901587
 #EXTINF:0 group-title="Фильмовые" tvg-id="1013" tvg-logo="http://epg.one/img/1013.png" tvg-rec="7",Viju+ Premiere HD
-http://srv-2-streaming.iptvin.site:8080/VIP_Premiere_HD/video.m3u8?token=ef5b19d77df37ba058164b5064b6249e0040a6d1-4741364406-1710905068-1710861868
+http://srv-2-streaming.iptvin.site:8080/VIP_Premiere_HD/video.m3u8?token=a8dcef5e4ffe3d503b6af7a91f012ca69f6108d6-4741364406-1710944787-1710901587
 #EXTINF:0 group-title="Фильмовые" tvg-id="2838" tvg-logo="http://epg.one/img/2838.png" tvg-rec="3",Viju+ Serial HD
-http://srv-6-streaming.iptvin.site:8080/VIPSerial_HD/video.m3u8?token=d8eac674d02d3036628e935ca8a1266eaa06012b-4741364406-1710905068-1710861868
+http://srv-6-streaming.iptvin.site:8080/VIPSerial_HD/video.m3u8?token=2a34c0b98d9ebef4c3a14c6bc4fa35ba544f2025-4741364406-1710944787-1710901587
 #EXTINF:0 group-title="Фильмовые" tvg-id="994" tvg-logo="http://epg.one/img/994.png" tvg-rec="7",Русский бестселлер
-http://srv-5-streaming.iptvin.site:34768/rusbestseller/video.m3u8?token=d3d75533ac0431592f163847b2b3c47f66920be3-4741364406-1710905068-1710861868
+http://srv-5-streaming.iptvin.site:34768/rusbestseller/video.m3u8?token=88bfba48aedfa0a1746a7749ea5da2f05a0d7cdb-4741364406-1710944787-1710901587
 #EXTINF:0 group-title="Фильмовые" tvg-id="1570" tvg-logo="http://epg.one/img/1570.png" tvg-rec="7",Русский детектив
-http://srv-4-streaming.iptvin.site:8080/rusdetektive/video.m3u8?token=1b1d05a1d8d0d94c21c3c369b23be862af534378-4741364406-1710905068-1710861868
+http://srv-4-streaming.iptvin.site:8080/rusdetektive/video.m3u8?token=8c94f7fb3330af8194e5e2624463506b5d0c0e8d-4741364406-1710944787-1710901587
 #EXTINF:0 group-title="Фильмовые" tvg-id="53" tvg-logo="http://epg.one/img/53.png" tvg-rec="7",Русский Иллюзион
 http://iptv.iptvin.site:2134/channel/nff29fa0/index.m3u8?q=39a58296a7abd1f4de5d70e759a13d0e
 #EXTINF:0 group-title="Фильмовые" tvg-id="401" tvg-logo="http://epg.one/img/401.png" tvg-rec="3",Русский роман HD
-http://srv-2-streaming.iptvin.site:8080/rusromanhd/video.m3u8?token=74c56a88617dd8c73c428c0658fe4b2854e21c5c-4741364406-1710905068-1710861868
+http://srv-2-streaming.iptvin.site:8080/rusromanhd/video.m3u8?token=98efa26ce3d46af98d468e021e14da3b7ffee7a0-4741364406-1710944787-1710901587
 #EXTINF:0 group-title="Фильмовые" tvg-id="834" tvg-logo="http://epg.one/img/834.png" tvg-rec="7",Дом Кино
-http://srv-1-streaming.iptvin.site:8080/dom-kino/index.m3u8?token=68c912b5d5526c90fcc44cd3f2161ffc251dfdec-4741364406-1710905068-1710861868
+http://srv-1-streaming.iptvin.site:8080/dom-kino/index.m3u8?token=7f406124677533d5933ab364839b5692b9d9c0a9-4741364406-1710944787-1710901587
 #EXTINF:0 group-title="Фильмовые" tvg-id="2020" tvg-logo="http://epg.one/img/2020.png" tvg-rec="7",Дом Кино Премиум HD
-http://srv-4-streaming.iptvin.site:8080/DKpremium/index.m3u8?token=f2f9f1f3e81eb44d2fec0f0a5cfcc06c8640ac97-4741364406-1710905068-1710861868
+http://srv-4-streaming.iptvin.site:8080/DKpremium/index.m3u8?token=8f7040722730a2db0956c2805047a5d01b0577fd-4741364406-1710944787-1710901587
 #EXTINF:0 group-title="Фильмовые" tvg-id="1754" tvg-logo="http://epg.one/img/1754.png" tvg-rec="7",НТВ Сериал
-http://srv-6-streaming.iptvin.site:8080/ntvserial/video.m3u8?token=a954173f41971e6c9faca528110c68082b0bf319-4741364406-1710905068-1710861868
+http://srv-6-streaming.iptvin.site:8080/ntvserial/video.m3u8?token=8df7362c53ee9f2f3865d029e404ddac589a318d-4741364406-1710944787-1710901587
 #EXTINF:0 group-title="Фильмовые" tvg-id="2041" tvg-logo="http://epg.one/img/2041.png" tvg-rec="0",НТВ Хит HD
-http://srv-4-streaming.iptvin.site:8080/ntv_hit/video.m3u8?token=1be3b746a21636c12d06be24fefcca79e4ac06f5-4741364406-1710905068-1710861868
+http://srv-4-streaming.iptvin.site:8080/ntv_hit/video.m3u8?token=37b5541a6404d7f254a489917c3e3e51aa6ebb2f-4741364406-1710944787-1710901587
 #EXTINF:0 group-title="Познавательные" tvg-id="1755" tvg-logo="http://epg.one/img/1755.png" tvg-rec="7",НТВ Стиль
 https://cdn.ntv.ru/th_style/index.m3u8
 #EXTINF:0 group-title="Фильмовые" tvg-id="821" tvg-logo="http://epg.one/img/821.png" tvg-rec="7",Кинокомедия
-http://srv-5-streaming.iptvin.site:34768/kinokomedia/video.m3u8?token=ce60302874ce3ca04dc71370f8b78c3ad6589a82-4741364406-1710905068-1710861868
+http://srv-5-streaming.iptvin.site:34768/kinokomedia/video.m3u8?token=7b2c77b918afe6cbe963c446cdab52c050e0c361-4741364406-1710944787-1710901587
 #EXTINF:0 group-title="Фильмовые" tvg-id="644" tvg-logo="http://epg.one/img/644.png" tvg-rec="7",Киномикс
-http://srv-5-streaming.iptvin.site:34768/kinomix/video.m3u8?token=56ea532a9c4566788925c6bd17c00ca12d201c90-4741364406-1710905068-1710861868
+http://srv-5-streaming.iptvin.site:34768/kinomix/video.m3u8?token=c4509149e726961cb66da238f59c8e396ab73e17-4741364406-1710944787-1710901587
 #EXTINF:0 group-title="Фильмовые" tvg-id="987" tvg-logo="http://epg.one/img/987.png" tvg-rec="7",Киносемья
-http://srv-4-streaming.iptvin.site:8080/kinosemya/video.m3u8?token=18d7732d4e06267c8e395405204124022fee9f8b-4741364406-1710905068-1710861868
+http://srv-4-streaming.iptvin.site:8080/kinosemya/video.m3u8?token=eb4e4cd5fbb9e5a11da2e9d6c5af04a3ef2b904d-4741364406-1710944787-1710901587
 #EXTINF:0 group-title="Фильмовые" tvg-id="566" tvg-logo="http://epg.one/img/566.png" tvg-rec="7",Кинопремьера HD
-http://srv-6-streaming.iptvin.site:8080/kinopremiera_hd/video.m3u8?token=fbe24dd341e6d89e996dc6f6e956107e4bbe46aa-4741364406-1710905068-1710861868
+http://srv-6-streaming.iptvin.site:8080/kinopremiera_hd/video.m3u8?token=72eda6d487a3555a3c6bf5d7a1d5e11ae97db954-4741364406-1710944787-1710901587
 #EXTINF:0 group-title="Фильмовые" tvg-id="542" tvg-logo="http://epg.one/img/542.png" tvg-rec="7",Кинохит
 http://iptv.iptvin.site:2134/channel/n6adb44b5/index.m3u8?q=e67ea5030b4b2f9546a2df1155710cdb
 #EXTINF:0 group-title="Фильмовые" tvg-id="799" tvg-logo="http://epg.one/img/799.png" tvg-rec="7",Киносерия
-http://srv-2-streaming.iptvin.site:8080/kinoseria/index.m3u8?token=1daf1a7bd95b067246404e5ed7f9a75d08185200-4741364406-1710905068-1710861868
+http://srv-2-streaming.iptvin.site:8080/kinoseria/index.m3u8?token=23d899f1de3d564bab9121d9297a4f2ba0d609cc-4741364406-1710944787-1710901587
 #EXTINF:0 group-title="Фильмовые" tvg-id="1584" tvg-logo="http://epg.one/img/1584.png" tvg-rec="7",Мужское Кино
-http://srv-2-streaming.iptvin.site:8080/muzhskoe_kino/index.m3u8?token=c33a78cc6c973060a1b694b104b8f9853f30efa1-4741364406-1710905068-1710861868
-#EXTINF:0 group-title="Фильмовые" tvg-id="485" tvg-logo="http://epg.one/img/485.png" tvg-rec="7",Наше Новое Кино
-http://srv-6-streaming.iptvin.site:8080/nashe-novoe-kino_hd/video.m3u8?token=dea4db6c65aba9609c7250d0b3c6629e581ae89e-4741364406-1710905068-1710861868
+http://srv-2-streaming.iptvin.site:8080/muzhskoe_kino/index.m3u8?token=98365eb099f00f6eecc22f5e844c34e22bfb6004-4741364406-1710944787-1710901587
 #EXTINF:0 group-title="Познавательные" tvg-id="2026" tvg-logo="http://epg.one/img/2026.png" tvg-rec="7",Бобёр
 http://iptv.iptvin.site:2134/channel/5e8d1c4f/index.m3u8?q=39a58296a7abd1f4de5d70e759a13d0e
 #EXTINF:0 group-title="Познавательные" tvg-id="2311" tvg-logo="http://epg.one/img/2311.png" tvg-rec="7",Приключения HD
-http://srv-5-streaming.iptvin.site:34768/PRIKLUCHENIA/video.m3u8?token=0cb6b45f4482895a2b50d4efef59b22ac134b162-4741364406-1710905068-1710861868
+http://srv-5-streaming.iptvin.site:34768/PRIKLUCHENIA/video.m3u8?token=85ae82c2c47d36218f68e5f706391175b563aa5c-4741364406-1710944787-1710901587
 #EXTINF:0 group-title="Познавательные" tvg-id="7614" tvg-logo="http://epg.one/img/7614.png" tvg-rec="3",Еда
-http://srv-5-streaming.iptvin.site:34768/eda/video.m3u8?token=e0f9f88503cae189222306c8afec510d7bfbbab9-4741364406-1710905068-1710861868
+http://srv-5-streaming.iptvin.site:34768/eda/video.m3u8?token=156faba0e560903895971b36497150d6b8b7344d-4741364406-1710944787-1710901587
 #EXTINF:0 group-title="Познавательные" tvg-id="675" tvg-logo="http://epg.one/img/675.png" tvg-rec="3",Моя Планета HD
-http://srv-2-streaming.iptvin.site:8080/my_planet_hd/index.m3u8?token=5b092f4e84cef13eb99a2d93f0a49d739c030d70-4741364406-1710905068-1710861868
+http://srv-2-streaming.iptvin.site:8080/my_planet_hd/index.m3u8?token=3a9f508fed2f34b77be1e9ae0bb0c9e44fc8fcbf-4741364406-1710944787-1710901587
 #EXTINF:0 group-title="Музыкыкальные" tvg-id="2277" tvg-logo="http://epg.one/img/2277.png" tvg-rec="7",RU TV
 https://hls-03-video.webcaramba.com/rutv/live_720/index.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="2011" tvg-logo="http://epg.one/img/2011.png" tvg-rec="7",Ani
-http://srv-6-streaming.iptvin.site:8080/ani/video.m3u8?token=a7e006c0910db3a441344d3bcc4ab69db81a6515-4741364406-1710905068-1710861868
+http://srv-6-streaming.iptvin.site:8080/ani/video.m3u8?token=d495472a92bb7f8b93d7c885b9c916e27e5de0e4-4741364406-1710944787-1710901587
 #EXTINF:0 group-title="Детские" tvg-id="923" tvg-logo="http://epg.one/img/923.png" tvg-rec="7",Детский мир
 http://iptv.iptvin.site:2134/channel/41661217/index.m3u8?q=39a58296a7abd1f4de5d70e759a13d0e
 #EXTINF:0 group-title="Детские" tvg-id="740" tvg-logo="http://epg.one/img/740.png" tvg-rec="7",Карусель
 http://iptv.iptvin.site:2134/channel/24809f78/index.m3u8?q=39a58296a7abd1f4de5d70e759a13d0e
 #EXTINF:0 group-title="Детские" tvg-id="1332" tvg-logo="http://epg.one/img/1332.png" tvg-rec="7",Мульт HD
-http://srv-2-streaming.iptvin.site:8080/mult_hd/video.m3u8?token=ee57019bfb5c8ca2a9a45ce4cd8eda69e457417c-4741364406-1710905068-1710861868
+http://srv-2-streaming.iptvin.site:8080/mult_hd/video.m3u8?token=f37f56b96b66dc8e753daffea693ac0c0494d318-4741364406-1710944787-1710901587
 #EXTINF:0 group-title="Детские" tvg-id="1757" tvg-logo="http://epg.one/img/1757.png" tvg-rec="7",О!
 http://iptv.iptvin.site:2134/channel/n58f9a485/index.m3u8?q=39a58296a7abd1f4de5d70e759a13d0e
 #EXTINF:0 group-title="Детские" tvg-id="2757" tvg-logo="http://epg.one/img/2757.png" tvg-rec="3",Мультиландия
