@@ -138,7 +138,7 @@ http://srv-5-streaming.iptvin.site:34768/kinomix/video.m3u8?token=799f5fc846c132
 #EXTINF:0 group-title="Фильмовые" tvg-id="987" tvg-logo="http://epg.one/img/987.png" tvg-rec="7",Киносемья
 http://srv-4-streaming.iptvin.site:8080/kinosemya/video.m3u8?token=e313ac4b47933c14e928ab7d266d3a8c36bc097f-4741364406-1711030809-1710987609
 #EXTINF:0 group-title="Фильмовые" tvg-id="566" tvg-logo="http://epg.one/img/566.png" tvg-rec="7",Кинопремьера HD
-http://srv-6-streaming.iptvin.site:8080/kinopremiera_hd/video.m3u8?token=870bec4ff6ce1d551edbf990a45508a5bad4079f-4741364406-1710969825-1710926625
+http://srv-6-streaming.iptvin.site:8080/kinopremiera_hd/video.m3u8?token=a2d34aafda3a952d0fa80188db23974e7e03fc9c-4741364406-1711030809-1710987609
 #EXTINF:0 group-title="Фильмовые" tvg-id="542" tvg-logo="http://epg.one/img/542.png" tvg-rec="7",Кинохит
 http://iptv.iptvin.site:2134/channel/n6adb44b5/index.m3u8?q=e67ea5030b4b2f9546a2df1155710cdb
 #EXTINF:0 group-title="Фильмовые" tvg-id="799" tvg-logo="http://epg.one/img/799.png" tvg-rec="7",Киносерия
