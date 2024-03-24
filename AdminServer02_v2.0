@@ -153,6 +153,8 @@ http://srv-5-streaming.iptvin.fun:34768/PRIKLUCHENIA/video.m3u8?token=3e2f5ac2b1
 http://srv-5-streaming.iptvin.fun:34768/eda/video.m3u8?token=6d5011284ff8e94c72c57ad77663e766bd19cc95-4559562072-1711332414-1711289214
 #EXTINF:0 group-title="Познавательные" tvg-id="675" tvg-logo="http://epg.one/img/675.png" tvg-rec="3",Моя Планета HD
 http://srv-2-streaming.iptvin.fun:8080/my_planet_hd/index.m3u8?token=cca4f78663d8c2d0724bc946c01eb8212a5fc61b-4559562072-1711332414-1711289214
+#EXTINF:0 group-title="Познавательные",Неизвестная Россия HD
+https://cdn2.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Музыкыкальные" tvg-id="2277" tvg-logo="http://epg.one/img/2277.png" tvg-rec="7",RU TV
 https://hls-03-video.webcaramba.com/rutv/live_720/index.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="2011" tvg-logo="http://epg.one/img/2011.png" tvg-rec="7",Ani
