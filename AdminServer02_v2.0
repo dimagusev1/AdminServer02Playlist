@@ -130,7 +130,7 @@ http://srv-6-streaming.iptvin.fun:8080/ntvserial/video.m3u8?token=8a22896b822ccd
 #EXTINF:0 group-title="Фильмовые" tvg-id="2041" tvg-logo="http://epg.one/img/2041.png" tvg-rec="0",НТВ Хит HD
 http://srv-4-streaming.iptvin.fun:8080/ntv_hit/video.m3u8?token=ff12436995e14b84e7263c6183edaa079ea67364-4559562072-1711332414-1711289214
 #EXTINF:0 group-title="Познавательные" tvg-id="1755" tvg-logo="http://epg.one/img/1755.png" tvg-rec="7",НТВ Стиль
-http://iptv.iptvin.fun:2134/channel/n76451c0a/index.m3u8?q=e67ea5030b4b2f9546a2df1155710cdb
+https://cdn2.ntv.ru/th_style/tracks-v3a1/mono.m3u8
 #EXTINF:0 group-title="Фильмовые" tvg-id="821" tvg-logo="http://epg.one/img/821.png" tvg-rec="7",Кинокомедия
 http://srv-5-streaming.iptvin.fun:34768/kinokomedia/video.m3u8?token=71ea13b1126c30137a7b764731e8c835f0bc1984-4559562072-1711332414-1711289214
 #EXTINF:0 group-title="Фильмовые" tvg-id="644" tvg-logo="http://epg.one/img/644.png" tvg-rec="7",Киномикс
