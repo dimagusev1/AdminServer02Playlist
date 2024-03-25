@@ -118,7 +118,7 @@ http://srv-5-streaming.iptvin.fun:34768/VIP_Comedy_HD/index.m3u8?token=960ee1042
 #EXTINF:0 group-title="Фильмовые" tvg-id="1012" tvg-logo="http://epg.one/img/1012.png" tvg-rec="7",Viju+ Megahit HD
 http://srv-5-streaming.iptvin.fun:34768/VIP_Megahit_HD/index.m3u8?token=656d5dcc3a2221a45aacdea29b2128961ef19a72-4559562072-1711405917-1711362717
 #EXTINF:0 group-title="Фильмовые" tvg-id="1013" tvg-logo="http://epg.one/img/1013.png" tvg-rec="7",Viju+ Premiere HD
-http://srv-2-streaming.iptvin.fun:8080/VIP_Premiere_HD/video.m3u8?token=bdd6735e3c90f54b32df20aa19c97dc1045af92f-4559562072-1711405917-1711362717
+http://api.peers.tv/timeshift/tv1000_premium_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTE0Mzk5MDEsImlhdCI6MTcxMTM1MzUwMSwiY2lkIjo2LCJ1aWQiOjc1NDA0NDYxMCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODQsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.JYXdV5NbP09juSx0YU0oglVT-lwwmkwk0Q8KqjOjghE&offset=10
 #EXTINF:0 group-title="Фильмовые" tvg-id="2838" tvg-logo="http://epg.one/img/2838.png" tvg-rec="3",Viju+ Serial HD
 http://srv-6-streaming.iptvin.fun:8080/VIPSerial_HD/video.m3u8?token=0eaa2ba1b27b20c136fe594258ccc2fc8e78b7d8-4559562072-1711405917-1711362717
 #EXTINF:0 group-title="Фильмовые" tvg-id="994" tvg-logo="http://epg.one/img/994.png" tvg-rec="7",Русский бестселлер
@@ -161,8 +161,6 @@ http://iptv.iptvin.fun:2134/channel/5e8d1c4f/index.m3u8?q=e67ea5030b4b2f9546a2df
 http://srv-5-streaming.iptvin.fun:34768/PRIKLUCHENIA/video.m3u8?token=093aabd10803f3b1786ac0e101082a6add1f2a24-4559562072-1711405917-1711362717
 #EXTINF:0 group-title="Познавательные" tvg-id="7614" tvg-logo="http://epg.one/img/7614.png" tvg-rec="3",Еда
 http://srv-5-streaming.iptvin.fun:34768/eda/video.m3u8?token=8146de3559f0a7e5010871b06256a5089236a67f-4559562072-1711405917-1711362717
-
-http://api.peers.tv/timeshift/eda_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTE0Mzk5MDEsImlhdCI6MTcxMTM1MzUwMSwiY2lkIjo2LCJ1aWQiOjc1NDA0NDYxMCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODQsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.JYXdV5NbP09juSx0YU0oglVT-lwwmkwk0Q8KqjOjghE&offset=10
 #EXTINF:0 group-title="Познавательные" tvg-id="675" tvg-logo="http://epg.one/img/675.png" tvg-rec="3",Моя Планета HD
 http://srv-2-streaming.iptvin.fun:8080/my_planet_hd/index.m3u8?token=805e07914a2de1cf552c67fbefaf968561a261c3-4559562072-1711405917-1711362717
 #EXTINF:0 group-title="Познавательные" tvg-id="2012" tvg-logo="http://epg.one/img/2012.png" tvg-rec="3",Viju+ Planet HD
