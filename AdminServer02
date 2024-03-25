@@ -99,38 +99,12 @@ http://srv-4-streaming.iptvin.fun:8080/bcuprem1/video.m3u8?token=642821c73400d65
 http://srv-4-streaming.iptvin.fun:8080/bcuprem2/video.m3u8?token=70410ebcc0a0493d416944b03a7f6a320dbfd0e4-4559562072-1711380334-1711337134
 #EXTINF:0 group-title="Кинозалы" tvg-id="4738" tvg-logo="http://epg.one/img/4738.png" tvg-rec="7",BCU Кинозал Premiere 3 HD
 http://srv-4-streaming.iptvin.fun:8080/bcuprem3/video.m3u8?token=f2edcbf3819f0401bfbe4610b2d857b41238bf3d-4559562072-1711380334-1711337134
-#EXTINF:0 group-title="Кинозалы" tvg-id="6353" tvg-logo="http://epg.one/img/6353.png" tvg-rec="0",Кинозал 1
-https://ipv4.bozztv.com/dvrfl07/ushba13/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="6354" tvg-logo="http://epg.one/img/6354.png" tvg-rec="0",Кинозал 2
-https://ipv4.bozztv.com/dvrfl07/ushba14/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="6355" tvg-logo="http://epg.one/img/6355.png" tvg-rec="0",Кинозал 3
-https://ipv4.bozztv.com/dvrfl07/ushba24/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="6356" tvg-logo="http://epg.one/img/6356.png" tvg-rec="0",Кинозал 4
-https://ipv4.bozztv.com/dvrfl07/ushba26/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="6357" tvg-logo="http://epg.one/img/6357.png" tvg-rec="0",Кинозал 5
-https://ipv4.bozztv.com/dvrfl07/ushba-films-b/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="6358" tvg-logo="http://epg.one/img/6358.png" tvg-rec="0",Кинозал 6
-https://ipv4.bozztv.com/dvrfl07/ushba-films-c/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="6359" tvg-logo="http://epg.one/img/6359.png" tvg-rec="0",Кинозал 7
-https://ipv4.bozztv.com/dvrfl07/ushba-films-d/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="6360" tvg-logo="http://epg.one/img/6360.png" tvg-rec="0",Кинозал 8
-https://ipv4.bozztv.com/dvrfl07/ushba-films-e/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="6361" tvg-logo="http://epg.one/img/6361.png" tvg-rec="0",Кинозал 9
-https://ipv4.bozztv.com/dvrfl07/ushba-films-f/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="6362" tvg-logo="http://epg.one/img/6362.png" tvg-rec="0",Кинозал 10
-https://ipv4.bozztv.com/dvrfl07/ushba-films-g/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="6363" tvg-logo="http://epg.one/img/6363.png" tvg-rec="0",Кинозал 11
-https://ipv4.bozztv.com/dvrfl07/ushba-films-h/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="6364" tvg-logo="http://epg.one/img/6364.png" tvg-rec="0",Кинозал 12
-https://ipv4.bozztv.com/dvrfl07/ushba-films-i/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Фильмовые" tvg-id="127" tvg-logo="http://epg.one/img/127.png" tvg-rec="3",Viju TV1000 HD
 http://srv-6-streaming.iptvin.fun:8080/viju1ooo/index.m3u8?token=b5039cce580f1adb6d6f6daa481e039940e2d9d7-4559562072-1711380334-1711337134
 #EXTINF:0 group-title="Фильмовые" tvg-id="267" tvg-logo="http://epg.one/img/267.png" tvg-rec="0",Viju TV1000 Русское HD
 http://srv-2-streaming.iptvin.fun:8080/TV1000_Rus_Kino_HD/index.m3u8?token=3f99d40059d0e3b714d445e01a79a0c7ee218aa2-4559562072-1711380334-1711337134
 #EXTINF:0 group-title="Фильмовые" tvg-id="125" tvg-logo="http://epg.one/img/125.png" tvg-rec="3",Viju TV1000 Action HD
 http://srv-5-streaming.iptvin.fun:34768/TV1000_Action_HD/index.m3u8?token=959a5c513fd4e37d3cfc172511e29d2872b063e0-4559562072-1711380334-1711337134
-#EXTINF:-1,Viju TV1000 Новелла HD
-http://srv-1-streaming.iptvin.fun:8080/tv1000-novella/index.m3u8?token=8da529d3a39d9c0f4139adfb24b8aa1ff649f80f-4559562072-1711380334-1711337134
 #EXTINF:0 group-title="Фильмовые" tvg-id="1011" tvg-logo="http://epg.one/img/1011.png" tvg-rec="7",Viju+ Comedy HD
 http://srv-5-streaming.iptvin.fun:34768/VIP_Comedy_HD/index.m3u8?token=58060a4feeb4de0618b3638b9e495a7e572133c3-4559562072-1711380334-1711337134
 #EXTINF:0 group-title="Фильмовые" tvg-id="1012" tvg-logo="http://epg.one/img/1012.png" tvg-rec="7",Viju+ Megahit HD
