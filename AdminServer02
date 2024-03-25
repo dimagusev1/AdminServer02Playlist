@@ -130,7 +130,7 @@ http://srv-6-streaming.iptvin.fun:8080/ntvserial/video.m3u8?token=897a4d2cb0a3da
 #EXTINF:0 group-title="Фильмовые" tvg-id="2041" tvg-logo="http://epg.one/img/2041.png" tvg-rec="0",НТВ Хит HD
 http://srv-4-streaming.iptvin.fun:8080/ntv_hit/video.m3u8?token=605587680472f12d7a8df5df4a55f5e1bf3d42a0-4559562072-1711380334-1711337134
 #EXTINF:0 group-title="Познавательные" tvg-id="1755" tvg-logo="http://epg.one/img/1755.png" tvg-rec="7",НТВ Стиль
-https://cdn.ntv.ru/th_style/index.m3u8
+http://cdn.ntv.ru/th_style/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Фильмовые" tvg-id="821" tvg-logo="http://epg.one/img/821.png" tvg-rec="7",Кинокомедия
 http://srv-5-streaming.iptvin.fun:34768/kinokomedia/video.m3u8?token=659e03edc8b456b96c464771521d866ffe73995a-4559562072-1711380334-1711337134
 #EXTINF:0 group-title="Фильмовые" tvg-id="644" tvg-logo="http://epg.one/img/644.png" tvg-rec="7",Киномикс
@@ -154,7 +154,7 @@ http://srv-5-streaming.iptvin.fun:34768/eda/video.m3u8?token=ad524a85924bf052e98
 #EXTINF:0 group-title="Познавательные" tvg-id="675" tvg-logo="http://epg.one/img/675.png" tvg-rec="3",Моя Планета HD
 http://srv-2-streaming.iptvin.fun:8080/my_planet_hd/index.m3u8?token=f2651acaa2bba39503d205b204180ba728b43d50-4559562072-1711380334-1711337134
 #EXTINF:0 group-title="Познавательные",Неизвестная Россия 
-https://cdn.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
+http://cdn.ntv.ru/unknown_russia/tracks-v2a1/playlist.m3u8
 #EXTINF:0 group-title="Музыкыкальные" tvg-id="2277" tvg-logo="http://epg.one/img/2277.png" tvg-rec="7",RU TV
 https://hls-03-video.webcaramba.com/rutv/live_720/index.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="2011" tvg-logo="http://epg.one/img/2011.png" tvg-rec="7",Ani
