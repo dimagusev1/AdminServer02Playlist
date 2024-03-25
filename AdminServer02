@@ -48,11 +48,11 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:0 group-title="Новостные" tvg-id="334" tvg-logo="http://epg.one/img/334.png" tvg-rec="7",Москва 24
 http://api.peers.tv/timeshift/moskva_24/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTE0Mzk5MDEsImlhdCI6MTcxMTM1MzUwMSwiY2lkIjo2LCJ1aWQiOjc1NDA0NDYxMCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODQsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.JYXdV5NbP09juSx0YU0oglVT-lwwmkwk0Q8KqjOjghE&offset=10
 #EXTINF:0 group-title="Новостные" tvg-id="2271" tvg-logo="http://epg.one/img/2271.png" tvg-rec="0",Известия HD
-http://api.peers.tv/timeshift/izvestiya_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTE0Mzk5MDEsImlhdCI6MTcxMTM1MzUwMSwiY2lkIjo2LCJ1aWQiOjc1NDA0NDYxMCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODQsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.JYXdV5NbP09juSx0YU0oglVT-
+http://api.peers.tv/timeshift/izvestiya_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTE0Mzk5MDEsImlhdCI6MTcxMTM1MzUwMSwiY2lkIjo2LCJ1aWQiOjc1NDA0NDYxMCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODQsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.JYXdV5NbP09juSx0YU0oglVT-lwwmkwk0Q8KqjOjghE&offset=10
 #EXTINF:0 group-title="Новостные" tvg-id="4458" tvg-logo="http://epg.one/img/4458.png" tvg-rec="0",360 Новости HD
-http://api.peers.tv/timeshift/360_novosti/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTE0Mzk5MDEsImlhdCI6MTcxMTM1MzUwMSwiY2lkIjo2LCJ1aWQiOjc1NDA0NDYxMCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODQsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.JYXdV5NbP09juSx0YU0oglVT-
+http://api.peers.tv/timeshift/360_novosti/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTE0Mzk5MDEsImlhdCI6MTcxMTM1MzUwMSwiY2lkIjo2LCJ1aWQiOjc1NDA0NDYxMCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODQsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.JYXdV5NbP09juSx0YU0oglVT-lwwmkwk0Q8KqjOjghE&offset=10
 #EXTINF:0 group-title="Новостные" tvg-id="2078" tvg-logo="http://epg.one/img/2078.png" tvg-rec="7",Мир 24
-http://api.peers.tv/timeshift/mir24/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTE0Mzk5MDEsImlhdCI6MTcxMTM1MzUwMSwiY2lkIjo2LCJ1aWQiOjc1NDA0NDYxMCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODQsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.JYXdV5NbP09juSx0YU0oglVT-
+http://api.peers.tv/timeshift/mir24/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTE0Mzk5MDEsImlhdCI6MTcxMTM1MzUwMSwiY2lkIjo2LCJ1aWQiOjc1NDA0NDYxMCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODQsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.JYXdV5NbP09juSx0YU0oglVT-lwwmkwk0Q8KqjOjghE&offset=10
 #EXTINF:0 group-title="Федеральные" tvg-id="79" tvg-logo="http://epg.one/img/79.png" tvg-rec="7",СТС
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:0 group-title="Каналы (+)" tvg-id="3007" tvg-logo="http://epg.one/img/3007.png" tvg-rec="0",СТС +2
@@ -162,7 +162,7 @@ http://srv-5-streaming.iptvin.fun:34768/PRIKLUCHENIA/video.m3u8?token=093aabd108
 #EXTINF:0 group-title="Познавательные" tvg-id="7614" tvg-logo="http://epg.one/img/7614.png" tvg-rec="3",Еда
 http://srv-5-streaming.iptvin.fun:34768/eda/video.m3u8?token=8146de3559f0a7e5010871b06256a5089236a67f-4559562072-1711405917-1711362717
 
-http://api.peers.tv/timeshift/eda_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTE0Mzk5MDEsImlhdCI6MTcxMTM1MzUwMSwiY2lkIjo2LCJ1aWQiOjc1NDA0NDYxMCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODQsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.JYXdV5NbP09juSx0YU0oglVT-
+http://api.peers.tv/timeshift/eda_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTE0Mzk5MDEsImlhdCI6MTcxMTM1MzUwMSwiY2lkIjo2LCJ1aWQiOjc1NDA0NDYxMCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODQsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.JYXdV5NbP09juSx0YU0oglVT-lwwmkwk0Q8KqjOjghE&offset=10
 #EXTINF:0 group-title="Познавательные" tvg-id="675" tvg-logo="http://epg.one/img/675.png" tvg-rec="3",Моя Планета HD
 http://srv-2-streaming.iptvin.fun:8080/my_planet_hd/index.m3u8?token=805e07914a2de1cf552c67fbefaf968561a261c3-4559562072-1711405917-1711362717
 #EXTINF:0 group-title="Познавательные" tvg-id="2012" tvg-logo="http://epg.one/img/2012.png" tvg-rec="3",Viju+ Planet HD
@@ -186,6 +186,6 @@ http://iptv.iptvin.fun:2134/channel/7a0ccc79/index.m3u8?q=e67ea5030b4b2f9546a2df
 #EXTINF:0 group-title="Детские" tvg-id="2437" tvg-logo="http://epg.one/img/2437.png" tvg-rec="3",Рыжий
 http://iptv.iptvin.fun:2134/channel/n6cc31afc/index.m3u8?q=e67ea5030b4b2f9546a2df1155710cdb
 #EXTINF:0 group-title="Детские" tvg-id="2481" tvg-logo="http://epg.one/img/2481.png" tvg-rec="7",СТС Kids HD
-http://api.peers.tv/timeshift/sts_kids_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTE0Mzk5MDEsImlhdCI6MTcxMTM1MzUwMSwiY2lkIjo2LCJ1aWQiOjc1NDA0NDYxMCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODQsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.JYXdV5NbP09juSx0YU0oglVT-
+http://api.peers.tv/timeshift/sts_kids_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTE0Mzk5MDEsImlhdCI6MTcxMTM1MzUwMSwiY2lkIjo2LCJ1aWQiOjc1NDA0NDYxMCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODQsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.JYXdV5NbP09juSx0YU0oglVT-lwwmkwk0Q8KqjOjghE&offset=10
 #EXTINF:0 group-title="Детские" tvg-id="284" tvg-logo="http://epg.one/img/284.png" tvg-rec="7",Мультимузыка
-http://api.peers.tv/timeshift/multmusic/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTE0Mzk5MDEsImlhdCI6MTcxMTM1MzUwMSwiY2lkIjo2LCJ1aWQiOjc1NDA0NDYxMCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODQsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.JYXdV5NbP09juSx0YU0oglVT-
+http://api.peers.tv/timeshift/multmusic/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTE0Mzk5MDEsImlhdCI6MTcxMTM1MzUwMSwiY2lkIjo2LCJ1aWQiOjc1NDA0NDYxMCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODQsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.JYXdV5NbP09juSx0YU0oglVT-lwwmkwk0Q8KqjOjghE&offset=10
