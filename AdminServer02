@@ -167,8 +167,14 @@ http://srv-2-streaming.iptvin.fun:8080/my_planet_hd/index.m3u8?token=8ace4d818ce
 http://srv-5-streaming.iptvin.fun:34768/nature_history_hd/video.m3u8?token=f1b747c3ac6aa76e90759f4e1a1e8edfe4d054f4-4559562072-1711495200-1711452000
 #EXTINF:0 group-title="Познавательные" tvg-id="675" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/5/56/%D0%9D%D0%B5%D0%B8%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D0%B0%D1%8F_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_%282023%29.png/revision/latest?cb=20230514135658&path-prefix=ru" tvg-rec="3",Неизвестная Россия 
 http://strm.yandex.ru/kal/neizvestnaia_rossia/neizvestnaia_rossia0.m3u8
-#EXTINF:0 group-title="Музыкыкальные" tvg-id="2277" tvg-logo="http://epg.one/img/2277.png" tvg-rec="7",RU TV
+#EXTINF:0 group-title="Музыкальные" tvg-id="2277" tvg-logo="http://epg.one/img/2277.png" tvg-rec="7",RU TV
 https://hls-03-video.webcaramba.com/rutv/live_720/index.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="151" tvg-logo="http://epg.one/img/151.png" tvg-rec="7",Bridge TV
+https://strm.yandex.ru/kal/bridgetv/bridgetv0.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="591" tvg-logo="http://epg.one/img/591.png" tvg-rec="3",Bridge Русский Хит
+https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="681" tvg-logo="http://epg.one/img/681.png" tvg-rec="3",Europa Plus TV
+http://arbiter.bolshoe.tv/?path=streaming/europaplus/71/tvrec/chunks.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9My8yNi8yMDI0IDg6MTM6MzIgQU0maGFzaF92YWx1ZT1JbmNqaHRleUJDcFYvaU1vUVhKMkZ3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 #EXTINF:0 group-title="Детские" tvg-id="2011" tvg-logo="http://epg.one/img/2011.png" tvg-rec="7",Ani
 http://srv-6-streaming.iptvin.fun:8080/ani/video.m3u8?token=8f86f0ada98aba2132b0e37990461e344ae4939b-4559562072-1711495200-1711452000
 #EXTINF:0 group-title="Детские" tvg-id="923" tvg-logo="http://epg.one/img/923.png" tvg-rec="7",Детский мир
@@ -187,3 +193,5 @@ http://iptv.iptvin.fun:2134/channel/n6cc31afc/index.m3u8?q=e67ea5030b4b2f9546a2d
 http://api.peers.tv/timeshift/sts_kids_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTE1MjcyMDksImlhdCI6MTcxMTQ0MDgwOSwiY2lkIjo2LCJ1aWQiOjc1NDM4NjI5MiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODQsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.xs0UB9AE4arHNU744Eah0q_PFQcUGexxaEFUmRwdKcg&offset=10
 #EXTINF:0 group-title="Детские" tvg-id="284" tvg-logo="http://epg.one/img/284.png" tvg-rec="7",Мультимузыка
 http://api.peers.tv/timeshift/multmusic/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTE1MjcyMDksImlhdCI6MTcxMTQ0MDgwOSwiY2lkIjo2LCJ1aWQiOjc1NDM4NjI5MiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODQsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.xs0UB9AE4arHNU744Eah0q_PFQcUGexxaEFUmRwdKcg&offset=10
+#EXTINF:0 group-title="Детские" tvg-id="66" tvg-logo="http://epg.one/img/66.png" tvg-rec="3",Уникум HD
+http://arbiter.bolshoe.tv/?path=streaming/detckiyHD/71/hd/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9My8yNi8yMDI0IDg6MTM6MzIgQU0maGFzaF92YWx1ZT1JbmNqaHRleUJDcFYvaU1vUVhKMkZ3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
