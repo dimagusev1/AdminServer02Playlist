@@ -45,6 +45,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
 #EXTINF:0 group-title="Новостные" tvg-id="1683" tvg-logo="http://epg.one/img/1683.png" tvg-rec="7",Россия 24
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
+#EXTINF:0 group-title="Новостные" tvg-id="743" tvg-logo="http://epg.one/img/743.png" tvg-rec="7",РБК
+http://api.peers.tv/timeshift/rbk/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTE1MjcyMDksImlhdCI6MTcxMTQ0MDgwOSwiY2lkIjo2LCJ1aWQiOjc1NDM4NjI5MiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODQsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.xs0UB9AE4arHNU744Eah0q_PFQcUGexxaEFUmRwdKcg&offset=10
 #EXTINF:0 group-title="Новостные" tvg-id="334" tvg-logo="http://epg.one/img/334.png" tvg-rec="7",Москва 24
 http://api.peers.tv/timeshift/moskva_24/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTE1MjcyMDksImlhdCI6MTcxMTQ0MDgwOSwiY2lkIjo2LCJ1aWQiOjc1NDM4NjI5MiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODQsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.xs0UB9AE4arHNU744Eah0q_PFQcUGexxaEFUmRwdKcg&offset=10
 #EXTINF:0 group-title="Новостные" tvg-id="2271" tvg-logo="http://epg.one/img/2271.png" tvg-rec="0",Известия HD
@@ -93,78 +95,80 @@ https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/tnt2h/tracks-v
 https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/tnt4h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.87XDkngr8arf3eqXPFp5RhdYNx4bpH8DrQe6aid3crg.QXimaKIsSMxjvh6ejM1R4nFOwGcI0mPat6MeT6wt6k4.1712045614.5cc62648fa14beee972c0167c804c72c
 #EXTINF:0 group-title="Каналы (+)" tvg-id="3024" tvg-logo="http://epg.one/img/3024.png" tvg-rec="0",ТНТ +7
 https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/tnt7h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.87XDkngr8arf3eqXPFp5RhdYNx4bpH8DrQe6aid3crg.QXimaKIsSMxjvh6ejM1R4nFOwGcI0mPat6MeT6wt6k4.1712045614.5cc62648fa14beee972c0167c804c72c
-#EXTINF:0 group-title="Музыкыкальные" tvg-id="897" tvg-logo="http://epg.one/img/897.png" tvg-rec="7",Муз ТВ
+#EXTINF:0 group-title="Музыкальные" tvg-id="897" tvg-logo="http://epg.one/img/897.png" tvg-rec="7",Муз ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTINF:0 group-title="Федеральные" tvg-id="1649" tvg-logo="http://epg.one/img/1649.png" tvg-rec="7",ТНТ4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:0 group-title="Кинозалы" tvg-id="4768" tvg-logo="http://epg.one/img/4768.png" tvg-rec="7",BCU Сваты HD
-http://srv-4-streaming.iptvin.fun:8080/bcusvaty/video.m3u8?token=dd677d39421a04c4d9198d82e0dbfaa3ce704a84-4559562072-1711495200-1711452000
+http://srv-4-streaming.iptvin.fun:8080/bcusvaty/video.m3u8?token=d03bdb38e776323917c4b523ac4491dae6c4a877-4559562072-1711507124-1711463924
 #EXTINF:0 group-title="Кинозалы" tvg-id="4762" tvg-logo="http://epg.one/img/4762.png" tvg-rec="7",BCU Russian HD
-http://srv-4-streaming.iptvin.fun:8080/bcurussian/video.m3u8?token=6473145f70639294723f2c3794c85f87b119f882-4559562072-1711495200-1711452000
+http://srv-4-streaming.iptvin.fun:8080/bcurussian/video.m3u8?token=abdc67cbd1657ac64b76f2e0954fce8f447b19eb-4559562072-1711507124-1711463924
 #EXTINF:0 group-title="Кинозалы" tvg-id="4736" tvg-logo="http://epg.one/img/4736.png" tvg-rec="7",BCU Кинозал Premiere 1 HD
-http://srv-4-streaming.iptvin.fun:8080/bcuprem1/video.m3u8?token=ad6bd24a09abbd82bcaabba8f19e9a1361ffc245-4559562072-1711495200-1711452000
+http://srv-4-streaming.iptvin.fun:8080/bcuprem1/video.m3u8?token=382e28a996b9d3eeb1326e7a0f564f1196fccd0f-4559562072-1711507124-1711463924
 #EXTINF:0 group-title="Кинозалы" tvg-id="4737" tvg-logo="http://epg.one/img/4737.png" tvg-rec="7",BCU Кинозал Premiere 2 HD
-http://srv-4-streaming.iptvin.fun:8080/bcuprem2/video.m3u8?token=1844f480ff125546e64dead4f6a146283effff38-4559562072-1711495200-1711452000
+http://srv-4-streaming.iptvin.fun:8080/bcuprem2/video.m3u8?token=a1d02c2de01cf7e98d1f5189b7a9e14780d8cfc5-4559562072-1711507124-1711463924
 #EXTINF:0 group-title="Кинозалы" tvg-id="4738" tvg-logo="http://epg.one/img/4738.png" tvg-rec="7",BCU Кинозал Premiere 3 HD
-http://srv-4-streaming.iptvin.fun:8080/bcuprem3/video.m3u8?token=3977ff0bbfc8ab1b5690d05e1aa7900d37b76ea5-4559562072-1711495200-1711452000
+http://srv-4-streaming.iptvin.fun:8080/bcuprem3/video.m3u8?token=117059deba7d5028d6e10cb62acf58faf5fca379-4559562072-1711507124-1711463924
 #EXTINF:0 group-title="Фильмовые" tvg-id="127" tvg-logo="http://epg.one/img/127.png" tvg-rec="3",Viju TV1000 HD
-http://srv-6-streaming.iptvin.fun:8080/viju1ooo/index.m3u8?token=d3ac47500db693eea9fa398b4bcd049929d5bae7-4559562072-1711495200-1711452000
+http://srv-6-streaming.iptvin.fun:8080/viju1ooo/index.m3u8?token=b575fc042e253dfd9edd9b7f0fe5eec9842e7e0c-4559562072-1711507124-1711463924
 #EXTINF:0 group-title="Фильмовые" tvg-id="267" tvg-logo="http://epg.one/img/267.png" tvg-rec="0",Viju TV1000 Русское HD
-http://srv-2-streaming.iptvin.fun:8080/TV1000_Rus_Kino_HD/index.m3u8?token=fc9daf62ef0e8e8d9b264cd08f17db19ade6c4b3-4559562072-1711495200-1711452000
+http://srv-2-streaming.iptvin.fun:8080/TV1000_Rus_Kino_HD/index.m3u8?token=68ad9809011b8775d59b04fe076cd7e65c744ab3-4559562072-1711507124-1711463924
 #EXTINF:0 group-title="Фильмовые" tvg-id="125" tvg-logo="http://epg.one/img/125.png" tvg-rec="3",Viju TV1000 Action HD
-http://srv-5-streaming.iptvin.fun:34768/TV1000_Action_HD/index.m3u8?token=f1c74f30c557fe020d11a2c903a615985e7a27c5-4559562072-1711495200-1711452000
+http://srv-5-streaming.iptvin.fun:34768/TV1000_Action_HD/index.m3u8?token=d0980f115d367cb1f97ea4212baa44cf1218dfb1-4559562072-1711507124-1711463924
 #EXTINF:0 group-title="Фильмовые" tvg-id="1011" tvg-logo="http://epg.one/img/1011.png" tvg-rec="7",Viju+ Comedy HD
-http://srv-5-streaming.iptvin.fun:34768/VIP_Comedy_HD/index.m3u8?token=a57362d298431986511a025ab4555038b9668f14-4559562072-1711495200-1711452000
+http://srv-5-streaming.iptvin.fun:34768/VIP_Comedy_HD/index.m3u8?token=e3de97eeab0a60b59dd93150400bd92dfb4d508a-4559562072-1711507124-1711463924
 #EXTINF:0 group-title="Фильмовые" tvg-id="1012" tvg-logo="http://epg.one/img/1012.png" tvg-rec="7",Viju+ Megahit HD
-http://srv-5-streaming.iptvin.fun:34768/VIP_Megahit_HD/index.m3u8?token=154d24244e353476b6fd737eae04b71c060ebea8-4559562072-1711495200-1711452000
+http://srv-5-streaming.iptvin.fun:34768/VIP_Megahit_HD/index.m3u8?token=63898c428a31971207a74e6e0944e8051e76cb20-4559562072-1711507124-1711463924
 #EXTINF:0 group-title="Фильмовые" tvg-id="1013" tvg-logo="http://epg.one/img/1013.png" tvg-rec="7",Viju+ Premiere HD
 http://api.peers.tv/timeshift/tv1000_premium_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTE1MjcyMDksImlhdCI6MTcxMTQ0MDgwOSwiY2lkIjo2LCJ1aWQiOjc1NDM4NjI5MiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODQsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.xs0UB9AE4arHNU744Eah0q_PFQcUGexxaEFUmRwdKcg&offset=10
 #EXTINF:0 group-title="Фильмовые" tvg-id="2838" tvg-logo="http://epg.one/img/2838.png" tvg-rec="3",Viju+ Serial HD
-http://srv-6-streaming.iptvin.fun:8080/VIPSerial_HD/video.m3u8?token=5f3474d79070f2a761ce5548c8471de5fff982db-4559562072-1711495200-1711452000
+http://srv-6-streaming.iptvin.fun:8080/VIPSerial_HD/video.m3u8?token=74f561ac1b0a2bfa07259045a225bd98bc5e1851-4559562072-1711507124-1711463924
 #EXTINF:0 group-title="Фильмовые" tvg-id="994" tvg-logo="http://epg.one/img/994.png" tvg-rec="7",Русский бестселлер
-http://srv-5-streaming.iptvin.fun:34768/rusbestseller/video.m3u8?token=1153653540ccb61f8affd60517f84bddf1a2b1fe-4559562072-1711495200-1711452000
+http://srv-5-streaming.iptvin.fun:34768/rusbestseller/video.m3u8?token=4924f1cfc80cb2f8c7f25570c5643d053c70195b-4559562072-1711507124-1711463924
 #EXTINF:0 group-title="Фильмовые" tvg-id="1570" tvg-logo="http://epg.one/img/1570.png" tvg-rec="7",Русский детектив
-http://srv-4-streaming.iptvin.fun:8080/rusdetektive/video.m3u8?token=18b7821132b20fe786569bd746fbda8de133a503-4559562072-1711495200-1711452000
+http://srv-4-streaming.iptvin.fun:8080/rusdetektive/video.m3u8?token=1d918c95c660dbc0c4801fbf46b1e7ec1043be19-4559562072-1711507124-1711463924
 #EXTINF:0 group-title="Фильмовые" tvg-id="53" tvg-logo="http://epg.one/img/53.png" tvg-rec="7",Русский Иллюзион
 http://iptv.iptvin.fun:2134/channel/nff29fa0/index.m3u8?q=e67ea5030b4b2f9546a2df1155710cdb
 #EXTINF:0 group-title="Фильмовые" tvg-id="401" tvg-logo="http://epg.one/img/401.png" tvg-rec="3",Русский роман HD
-http://srv-2-streaming.iptvin.fun:8080/rusromanhd/video.m3u8?token=64020e04feffdf815feecabdb57ee99986f4a42a-4559562072-1711495200-1711452000
+http://srv-2-streaming.iptvin.fun:8080/rusromanhd/video.m3u8?token=007a470a5add3c46b6261495672b2d986cca9e83-4559562072-1711507124-1711463924
 #EXTINF:0 group-title="Фильмовые" tvg-id="834" tvg-logo="http://epg.one/img/834.png" tvg-rec="7",Дом Кино
-http://srv-1-streaming.iptvin.fun:8080/dom-kino/index.m3u8?token=7740c5675dbb950df352ffebd926402458d6ea6f-4559562072-1711495200-1711452000
+http://srv-1-streaming.iptvin.fun:8080/dom-kino/index.m3u8?token=27a08eab5facdea14c85539f9a2536a24b508dc6-4559562072-1711507124-1711463924
 #EXTINF:0 group-title="Фильмовые" tvg-id="2020" tvg-logo="http://epg.one/img/2020.png" tvg-rec="7",Дом Кино Премиум HD
-http://srv-4-streaming.iptvin.fun:8080/DKpremium/index.m3u8?token=9cd65baeba9703f4c945e958b062f426cc75050a-4559562072-1711495200-1711452000
-#EXTINF:0 group-title="Фильмовые" tvg-id="1754" tvg-logo="http://epg.one/img/1754.png" tvg-rec="7",НТВ Сериал
-http://srv-6-streaming.iptvin.fun:8080/ntvserial/video.m3u8?token=52f4594af2ac406fe6d305e2542d27209bb5754f-4559562072-1711495200-1711452000
+http://srv-4-streaming.iptvin.fun:8080/DKpremium/index.m3u8?token=4b96ec0e5790620d77dd2d45b6b974f7f9a67570-4559562072-1711507124-1711463924
+#EXTINF:0 group-title="Фильмовые" tvg-id="1754" tvg-logo="http://epg.one/img/1754.png" tvg-rec="7",НТВ Сериал HD
+http://srv-1-streaming.iptvin.fun:8080/ntv_serial_hd/index.m3u8?token=1f72541beae51f51b6aa1bde5787054418da61f7-4559562072-1711507124-1711463924
 #EXTINF:0 group-title="Фильмовые" tvg-id="2041" tvg-logo="http://epg.one/img/2041.png" tvg-rec="0",НТВ Хит HD
-http://srv-4-streaming.iptvin.fun:8080/ntv_hit/video.m3u8?token=af67c5d16d13f120c35ca7d0fcceb807e3039834-4559562072-1711495200-1711452000
+http://srv-4-streaming.iptvin.fun:8080/ntv_hit/video.m3u8?token=c7b0743f0b04ac043f2b7206db4728f8fdcd27df-4559562072-1711507124-1711463924
 #EXTINF:0 group-title="Познавательные" tvg-id="1755" tvg-logo="http://epg.one/img/1755.png" tvg-rec="7",НТВ Стиль HD
 https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
 #EXTINF:0 group-title="Фильмовые" tvg-id="821" tvg-logo="http://epg.one/img/821.png" tvg-rec="7",Кинокомедия
-http://srv-5-streaming.iptvin.fun:34768/kinokomedia/video.m3u8?token=6112134b024f480104e7860b1a2706e2c3e160a6-4559562072-1711495200-1711452000
+http://srv-5-streaming.iptvin.fun:34768/kinokomedia/video.m3u8?token=349f02c264345e086ce30ae9264908f5e34f5d9f-4559562072-1711507124-1711463924
 #EXTINF:0 group-title="Фильмовые" tvg-id="644" tvg-logo="http://epg.one/img/644.png" tvg-rec="7",Киномикс
-http://srv-5-streaming.iptvin.fun:34768/kinomix/video.m3u8?token=c13980419fb1945967ce7ed64b142918afe5bd77-4559562072-1711495200-1711452000
+http://srv-5-streaming.iptvin.fun:34768/kinomix/video.m3u8?token=8d62d0c7f497bc03ba786e8fda8fe8905f2bcb4b-4559562072-1711507124-1711463924
 #EXTINF:0 group-title="Фильмовые" tvg-id="987" tvg-logo="http://epg.one/img/987.png" tvg-rec="7",Киносемья
-http://srv-4-streaming.iptvin.fun:8080/kinosemya/video.m3u8?token=1c99487a664184e7e2590289ac0df400d6e326e6-4559562072-1711495200-1711452000
+http://srv-4-streaming.iptvin.fun:8080/kinosemya/video.m3u8?token=0382afaa120f9a0cb98573169a673f6132c9b74e-4559562072-1711507124-1711463924
 #EXTINF:0 group-title="Фильмовые" tvg-id="566" tvg-logo="http://epg.one/img/566.png" tvg-rec="7",Кинопремьера HD
-http://srv-6-streaming.iptvin.fun:8080/kinopremiera_hd/video.m3u8?token=517e72c50bad1d101e5fa14ec07f9324f9378710-4559562072-1711495200-1711452000
+http://srv-6-streaming.iptvin.fun:8080/kinopremiera_hd/video.m3u8?token=6b0c085c34b5173e75e71d1f70fd763102f939b7-4559562072-1711507124-1711463924
 #EXTINF:0 group-title="Фильмовые" tvg-id="542" tvg-logo="http://epg.one/img/542.png" tvg-rec="7",Кинохит
 http://iptv.iptvin.fun:2134/channel/n6adb44b5/index.m3u8?q=e67ea5030b4b2f9546a2df1155710cdb
 #EXTINF:0 group-title="Фильмовые" tvg-id="799" tvg-logo="http://epg.one/img/799.png" tvg-rec="7",Киносерия
-http://srv-2-streaming.iptvin.fun:8080/kinoseria/index.m3u8?token=d7bfa902520eef20ba3f5e854ced45f7496dca48-4559562072-1711495200-1711452000
+http://srv-2-streaming.iptvin.fun:8080/kinoseria/index.m3u8?token=71fa62e575a283cc49c731955dbd3d0c73f0d1de-4559562072-1711507124-1711463924
 #EXTINF:0 group-title="Фильмовые" tvg-id="1584" tvg-logo="http://epg.one/img/1584.png" tvg-rec="7",Мужское Кино
-http://srv-2-streaming.iptvin.fun:8080/muzhskoe_kino/index.m3u8?token=2015d35f098de53086131b89aae18592517b1259-4559562072-1711495200-1711452000
+http://srv-2-streaming.iptvin.fun:8080/muzhskoe_kino/index.m3u8?token=47829dbbe715531b25c39ac73162333bc3d828a7-4559562072-1711507124-1711463924
 #EXTINF:0 group-title="Фильмовые" tvg-id="352" tvg-logo="http://epg.one/img/352.png" tvg-rec="7",Еврокино
 http://iptv.iptvin.fun:2134/channel/56b16276/index.m3u8?q=e67ea5030b4b2f9546a2df1155710cdb
 #EXTINF:0 group-title="Познавательные" tvg-id="2026" tvg-logo="http://epg.one/img/2026.png" tvg-rec="7",Бобёр
 http://iptv.iptvin.fun:2134/channel/5e8d1c4f/index.m3u8?q=e67ea5030b4b2f9546a2df1155710cdb
 #EXTINF:0 group-title="Познавательные" tvg-id="2311" tvg-logo="http://epg.one/img/2311.png" tvg-rec="7",Приключения HD
-http://srv-5-streaming.iptvin.fun:34768/PRIKLUCHENIA/video.m3u8?token=df6cc5583acc13754d510debf25337a0115948dc-4559562072-1711495200-1711452000
+http://srv-5-streaming.iptvin.fun:34768/PRIKLUCHENIA/video.m3u8?token=2a57ff8ca0997773737c2be5432e178317604015-4559562072-1711507124-1711463924
 #EXTINF:0 group-title="Познавательные" tvg-id="7614" tvg-logo="http://epg.one/img/7614.png" tvg-rec="3",Еда
-http://srv-5-streaming.iptvin.fun:34768/eda/video.m3u8?token=b59ebd171cc4b8c13c33beaf92efbc503aed5aa3-4559562072-1711495200-1711452000
+http://srv-5-streaming.iptvin.fun:34768/eda/video.m3u8?token=129ada1e67036b7a807e35b24a9cd53f2eb9c396-4559562072-1711507124-1711463924
+#EXTINF:0 group-title="Познавательные" tvg-id="7614" tvg-logo="http://epg.one/img/7614.png" tvg-rec="3",Еда Премиум 
+http://api.peers.tv/timeshift/eda_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTE1MjcyMDksImlhdCI6MTcxMTQ0MDgwOSwiY2lkIjo2LCJ1aWQiOjc1NDM4NjI5MiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODQsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.xs0UB9AE4arHNU744Eah0q_PFQcUGexxaEFUmRwdKcg&offset=10
 #EXTINF:0 group-title="Познавательные" tvg-id="675" tvg-logo="http://epg.one/img/675.png" tvg-rec="3",Моя Планета HD
-http://srv-2-streaming.iptvin.fun:8080/my_planet_hd/index.m3u8?token=8ace4d818cef7af4523d148dd0c7708a6a115181-4559562072-1711495200-1711452000
+http://srv-2-streaming.iptvin.fun:8080/my_planet_hd/index.m3u8?token=6ceed6c8c19e12eaf2d2ca108f1a53454e28c16a-4559562072-1711507124-1711463924
 #EXTINF:0 group-title="Познавательные" tvg-id="2012" tvg-logo="http://epg.one/img/2012.png" tvg-rec="3",Viju+ Planet HD
-http://srv-5-streaming.iptvin.fun:34768/nature_history_hd/video.m3u8?token=f1b747c3ac6aa76e90759f4e1a1e8edfe4d054f4-4559562072-1711495200-1711452000
+http://srv-5-streaming.iptvin.fun:34768/nature_history_hd/video.m3u8?token=77734138dd9d5f59cd2a0a6eb55845e0c5d96a93-4559562072-1711507124-1711463924
 #EXTINF:0 group-title="Познавательные" tvg-id="675" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/5/56/%D0%9D%D0%B5%D0%B8%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D0%B0%D1%8F_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_%282023%29.png/revision/latest?cb=20230514135658&path-prefix=ru" tvg-rec="3",Неизвестная Россия 
 http://strm.yandex.ru/kal/neizvestnaia_rossia/neizvestnaia_rossia0.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="2277" tvg-logo="http://epg.one/img/2277.png" tvg-rec="7",RU TV
@@ -176,13 +180,13 @@ https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="681" tvg-logo="http://epg.one/img/681.png" tvg-rec="3",Europa Plus TV
 http://arbiter.bolshoe.tv/?path=streaming/europaplus/71/tvrec/chunks.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9My8yNi8yMDI0IDg6MTM6MzIgQU0maGFzaF92YWx1ZT1JbmNqaHRleUJDcFYvaU1vUVhKMkZ3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 #EXTINF:0 group-title="Детские" tvg-id="2011" tvg-logo="http://epg.one/img/2011.png" tvg-rec="7",Ani
-http://srv-6-streaming.iptvin.fun:8080/ani/video.m3u8?token=8f86f0ada98aba2132b0e37990461e344ae4939b-4559562072-1711495200-1711452000
+http://srv-6-streaming.iptvin.fun:8080/ani/video.m3u8?token=17185d9617d8fbae5f5398d078b4e91011210b2e-4559562072-1711507124-1711463924
 #EXTINF:0 group-title="Детские" tvg-id="923" tvg-logo="http://epg.one/img/923.png" tvg-rec="7",Детский мир
 http://iptv.iptvin.fun:2134/channel/41661217/index.m3u8?q=e67ea5030b4b2f9546a2df1155710cdb
 #EXTINF:0 group-title="Детские" tvg-id="740" tvg-logo="http://epg.one/img/740.png" tvg-rec="7",Карусель
 http://iptv.iptvin.fun:2134/channel/24809f78/index.m3u8?q=e67ea5030b4b2f9546a2df1155710cdb
 #EXTINF:0 group-title="Детские" tvg-id="1332" tvg-logo="http://epg.one/img/1332.png" tvg-rec="7",Мульт HD
-http://srv-2-streaming.iptvin.fun:8080/mult_hd/video.m3u8?token=1f511f5e9d608f998192087cb42dff0319d8e591-4559562072-1711495200-1711452000
+http://srv-2-streaming.iptvin.fun:8080/mult_hd/video.m3u8?token=043bb69d62db38a28f25829c724c3f3a6ec79773-4559562072-1711507124-1711463924
 #EXTINF:0 group-title="Детские" tvg-id="1757" tvg-logo="http://epg.one/img/1757.png" tvg-rec="7",О!
 http://iptv.iptvin.fun:2134/channel/n58f9a485/index.m3u8?q=e67ea5030b4b2f9546a2df1155710cdb
 #EXTINF:0 group-title="Детские" tvg-id="2757" tvg-logo="http://epg.one/img/2757.png" tvg-rec="3",Мультиландия
@@ -194,4 +198,4 @@ http://api.peers.tv/timeshift/sts_kids_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI
 #EXTINF:0 group-title="Детские" tvg-id="284" tvg-logo="http://epg.one/img/284.png" tvg-rec="7",Мультимузыка
 http://api.peers.tv/timeshift/multmusic/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTE1MjcyMDksImlhdCI6MTcxMTQ0MDgwOSwiY2lkIjo2LCJ1aWQiOjc1NDM4NjI5MiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODQsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.xs0UB9AE4arHNU744Eah0q_PFQcUGexxaEFUmRwdKcg&offset=10
 #EXTINF:0 group-title="Детские" tvg-id="66" tvg-logo="http://epg.one/img/66.png" tvg-rec="3",Уникум HD
-http://arbiter.bolshoe.tv/?path=streaming/detckiyHD/71/hd/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9My8yNi8yMDI0IDg6MTM6MzIgQU0maGFzaF92YWx1ZT1JbmNqaHRleUJDcFYvaU1vUVhKMkZ3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+http://api.peers.tv/timeshift/forkids/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTE1MjcyMDksImlhdCI6MTcxMTQ0MDgwOSwiY2lkIjo2LCJ1aWQiOjc1NDM4NjI5MiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODQsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.xs0UB9AE4arHNU744Eah0q_PFQcUGexxaEFUmRwdKcg&offset=10
