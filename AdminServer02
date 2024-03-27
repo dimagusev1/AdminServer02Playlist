@@ -203,13 +203,13 @@ http://srv-1-streaming.iptvin.fun:8080/dom-kino/index.m3u8?token=6161c5985b2bf0c
 #EXTINF:-1,Дом Кино Премиум HD
 #EXTGRP:Фильмовые
 http://srv-4-streaming.iptvin.fun:8080/DKpremium/index.m3u8?token=d4bf5c5f0957a0a67ade7edfc6db16a1bbeb8e75-4559562072-1711555878-1711512678
-#EXTINF:-1,НТВ Сериал HD
+#EXTINF:-1,НТВ Сериал 
 #EXTGRP:Фильмовые
 http://srv-1-streaming.iptvin.fun:8080/ntv_serial_hd/index.m3u8?token=494331b319db5fe819e70380e6245b16e0e19066-4559562072-1711555878-1711512678
-#EXTINF:-1,НТВ Хит HD
+#EXTINF:-1,НТВ Хит 
 #EXTGRP:Фильмовые
 http://srv-4-streaming.iptvin.fun:8080/ntv_hit/video.m3u8?token=b3138ece216712d2a63fd4ea4a6543ccd6a9256f-4559562072-1711555878-1711512678
-#EXTINF:-1,НТВ Стиль HD
+#EXTINF:-1,НТВ Стиль 
 #EXTGRP:Познавательные
 https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
 #EXTINF:-1,Кинокомедия
@@ -257,13 +257,13 @@ http://srv-5-streaming.iptvin.fun:34768/nature_history_hd/video.m3u8?token=480c9
 #EXTINF:-1,Неизвестная Россия 
 #EXTGRP:Познавательные
 http://strm.yandex.ru/kal/neizvestnaia_rossia/neizvestnaia_rossia0.m3u8
-#EXTINF:-1,RU TV
+#EXTINF:-1,RU-TV
 #EXTGRP:Музыка
 https://hls-03-video.webcaramba.com/rutv/live_720/index.m3u8
 #EXTINF:-1,Bridge TV
 #EXTGRP:Музыка
 https://strm.yandex.ru/kal/bridgetv/bridgetv0.m3u8
-#EXTINF:-1,Bridge Русский Хит
+#EXTINF:-1,Bridge TV Русский Хит
 #EXTGRP:Музыка
 https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
 #EXTINF:-1,Europa Plus TV
